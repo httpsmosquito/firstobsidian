@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown語法.md",
+                "file": "obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown語法.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown語法.md",
+                "file": "obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown語法.md"
+                "file": "obsidian.md"
               }
             }
           },
@@ -188,10 +188,10 @@
   "active": "180c2c0537eb2c20",
   "lastOpenFiles": [
     "obsidian-vault.md",
-    "電源架構隨手記.md",
-    "Obsidian圖片.md",
     "obsidian.md",
     "markdown語法.md",
+    "電源架構隨手記.md",
+    "Obsidian圖片.md",
     "Pasted image 20240507103546.png",
     "Untitled/Welcome.md",
     "Untitled 1",

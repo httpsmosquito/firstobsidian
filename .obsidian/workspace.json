@@ -45,7 +45,7 @@
               "type": "markdown",
               "state": {
                 "file": "markdown語法.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b17bb2401c98620a",
+  "active": "180c2c0537eb2c20",
   "lastOpenFiles": [
     "obsidian-vault.md",
     "電源架構隨手記.md",

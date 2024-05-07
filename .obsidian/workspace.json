@@ -30,30 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0fbf03c4e8abf44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aae15d5087cff3f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f49bb051fc114256",
@@ -66,12 +45,25 @@
               "type": "markdown",
               "state": {
                 "file": "markdown語法.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "009264cf99285228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -206,15 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0fbf03c4e8abf44",
+  "active": "009264cf99285228",
   "lastOpenFiles": [
+    "markdown語法.md",
+    "Untitled 1.md",
+    "Untitled",
     "obsidian-vault.md",
+    "電源架構隨手記.md",
     "obsidian.md",
     "Permanent note",
     "Untitled.md",
     "Literature note",
-    "markdown語法.md",
-    "電源架構隨手記.md",
     "Obsidian圖片.md",
     "Pasted image 20240507103546.png",
     "Fleet note/Welcome.md",

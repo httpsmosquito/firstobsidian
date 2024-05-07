@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +156,10 @@
   "active": "109835106d54efa8",
   "lastOpenFiles": [
     "obsidian-vault.md",
-    "Pasted image 20240507103546.png",
-    "Obsidian圖片.md",
     "obsidian.md",
     "電源架構隨手記.md",
+    "Pasted image 20240507103546.png",
+    "Obsidian圖片.md",
     "Untitled/Welcome.md",
     "Untitled 1",
     "Untitled"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian圖片.md",
+                "file": "電源架構隨手記.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian圖片.md",
+                "file": "電源架構隨手記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian圖片.md",
+                "file": "電源架構隨手記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian圖片.md"
+                "file": "電源架構隨手記.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   "active": "109835106d54efa8",
   "lastOpenFiles": [
     "obsidian-vault.md",
+    "Pasted image 20240507103546.png",
+    "Obsidian圖片.md",
     "obsidian.md",
     "電源架構隨手記.md",
-    "Obsidian圖片.md",
-    "Pasted image 20240507103546.png",
     "Untitled/Welcome.md",
     "Untitled 1",
     "Untitled"

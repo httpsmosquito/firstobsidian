@@ -10,3 +10,5 @@ from [[product strategy MOC]]
 where !contains(file.name,"daily note")  
 sort status desc, file.mtime desc  
 ```
+
+date:2024

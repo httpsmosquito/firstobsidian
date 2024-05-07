@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9aae15d5087cff3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f49bb051fc114256",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -185,16 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "180c2c0537eb2c20",
+  "active": "9aae15d5087cff3f",
   "lastOpenFiles": [
-    "obsidian-vault.md",
     "obsidian.md",
+    "Untitled.md",
+    "Untitled 1",
+    "obsidian-vault.md",
     "markdown語法.md",
     "電源架構隨手記.md",
     "Obsidian圖片.md",
     "Pasted image 20240507103546.png",
     "Untitled/Welcome.md",
-    "Untitled 1",
     "Untitled"
   ]
 }

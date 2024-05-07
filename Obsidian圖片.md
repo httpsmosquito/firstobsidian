@@ -1,0 +1,1 @@
+我不想讓Obsidian的圖片存在本機，避免遺失，預想方法是將圖片存在google drive ，而Obsidian

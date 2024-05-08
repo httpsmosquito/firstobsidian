@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,11 +104,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 441.5
   },
   "right": {
     "id": "c032efeee1473a0e",
@@ -177,18 +178,6 @@
             }
           },
           {
-            "id": "daaed28a12654a13",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
             "id": "f8b86f171f09edc2",
             "type": "leaf",
             "state": {
@@ -215,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba5a04c770120aa0",
+  "active": "8517b29220777da9",
   "lastOpenFiles": [
     "卡片盒筆記法.md",
     "Untitled.md",

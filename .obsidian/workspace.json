@@ -46,6 +46,16 @@
             }
           },
           {
+            "id": "fe4a1869924c0b74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-08 15.39.28.md"
+              }
+            }
+          },
+          {
             "id": "73fa81aef197b6b6",
             "type": "leaf",
             "state": {
@@ -206,8 +216,11 @@
   },
   "active": "dba17f57dceeed18",
   "lastOpenFiles": [
-    "---.md",
+    "Excalidraw/Drawing 2024-05-08 15.39.28.md",
     "Vsence.md",
+    "obsidian properties.md",
+    "Excalidraw/Drawing 2024-05-08 15.39.28.svg",
+    "---.md",
     "Excalidraw/Drawing 2024-05-08 13.52.40.excalidraw.md",
     "properties.md",
     "卡片盒筆記法.md",
@@ -216,7 +229,6 @@
     "電源架構隨手記.md",
     "markdown語法.md",
     "Number Heading.md",
-    "obsidian properties.md",
     "Personal Access Token.md",
     "obsidian電腦及手機如何用Github同步.md",
     "Obsidian圖片.md",

@@ -36,9 +36,9 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 輸入github帳號密碼
 若有使用雙重認證(2FA)，請至github生成[[Personal Access Token]]
 
-開啟obsidian APP會看到firstobsidian
+4.開啟obsidian APP會看到firstobsidian，開啟他(若firstobsidian中已有資料會全部顯示出來)
+5.確認"Git"中已經沒有"git is not ready"的訊息，才是git clone有成功，至Authentication/Commit Author中填寫帳號、密碼(Personal Access Token)、email
 
-確認"Git"中已經沒有"git is nit ready"
 
 
 

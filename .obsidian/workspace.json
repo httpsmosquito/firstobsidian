@@ -6,7 +6,6 @@
       {
         "id": "52c27f6727a36ba5",
         "type": "tabs",
-        "dimension": 70.32967032967034,
         "children": [
           {
             "id": "109835106d54efa8",
@@ -28,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "卡片盒筆記法.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,40 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d4953fa4f556c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "64aeda5e13a94619",
-        "type": "tabs",
-        "dimension": 29.67032967032967,
-        "children": [
-          {
-            "id": "e778e7a348afdd71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "卡片盒筆記法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "卡片盒筆記法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md"
+                "file": "卡片盒筆記法.md"
               }
             }
           },
@@ -202,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md"
+                "file": "卡片盒筆記法.md"
               }
             }
           }
@@ -223,18 +191,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4953fa4f556c73",
+  "active": "180c2c0537eb2c20",
   "lastOpenFiles": [
-    "obsidian properties.md",
-    "Personal Access Token.md",
-    "obsidian電腦及手機如何用Github同步.md",
+    "電源架構隨手記.md",
     "markdown語法.md",
     "Number Heading.md",
-    "電源架構隨手記.md",
+    "obsidian properties.md",
+    "properties.md",
+    "Personal Access Token.md",
+    "obsidian電腦及手機如何用Github同步.md",
+    "Obsidian圖片.md",
     "卡片盒筆記法.md",
     "obsidian.md",
-    "Obsidian圖片.md",
-    "properties.md",
     "---.md",
     "Project-related note/電源架構",
     "Project-related note/韓文",

@@ -2,5 +2,6 @@
   "propertiesInDocument": "source",
   "foldHeading": true,
   "showLineNumber": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "tabSize": 3
 }

@@ -1,3 +1,6 @@
 {
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "source",
+  "foldHeading": true,
+  "showLineNumber": true,
+  "rightToLeft": false
 }

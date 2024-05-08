@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 200
   },
   "right": {
     "id": "c032efeee1473a0e",
@@ -204,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8517b29220777da9",
+  "active": "ba5a04c770120aa0",
   "lastOpenFiles": [
     "卡片盒筆記法.md",
     "Untitled.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "電源架構隨手記.md",
+                "file": "卡片盒筆記法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "電源架構隨手記.md",
+            "file": "卡片盒筆記法.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "電源架構隨手記.md",
+            "file": "卡片盒筆記法.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "電源架構隨手記.md"
+            "file": "卡片盒筆記法.md"
           }
         }
       }
@@ -133,6 +133,15 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "電源架構隨手記.md",
+    "---.md",
+    "卡片盒筆記法.md",
+    "markdown語法.md",
+    "Untitled 2.md",
+    "/markdown語法.md",
+    "/卡片盒筆記法.md",
+    "/Untitled 2.md",
+    "/---.md",
     "Untitled.md",
     "/Untitled.md"
   ]

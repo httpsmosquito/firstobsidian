@@ -36,6 +36,11 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 輸入github帳號密碼
 若有使用雙重認證(2FA)，請至github生成[[Personal Access Token]]
 
+開啟obsidian APP會看到firstobsidian
+
+確認"Git"中已經沒有"git is nit ready"
+
+
 
 
 

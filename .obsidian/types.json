@@ -7,6 +7,7 @@
     "Source URL": "text",
     "Author": "multitext",
     "Topics": "multitext",
-    "test": "text"
+    "test": "text",
+    "created": "datetime"
   }
 }

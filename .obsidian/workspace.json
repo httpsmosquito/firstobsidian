@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d4953fa4f556c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Number Heading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian properties.md",
+                "file": "Number Heading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian properties.md",
+                "file": "Number Heading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian properties.md"
+                "file": "Number Heading.md"
               }
             }
           },
@@ -170,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian properties.md"
+                "file": "Number Heading.md"
               }
             }
           }
@@ -191,14 +203,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73fa81aef197b6b6",
+  "active": "5d4953fa4f556c73",
   "lastOpenFiles": [
-    "---.md",
-    "obsidian-vault.md",
-    "卡片盒筆記法.md",
-    "properties.md",
     "obsidian properties.md",
+    "Number Heading.md",
+    "obsidian-vault.md",
+    "Obsidian圖片.md",
+    "properties.md",
     "電源架構隨手記.md",
+    "---.md",
+    "卡片盒筆記法.md",
     "markdown語法.md",
     "Project-related note/電源架構",
     "Project-related note/韓文",
@@ -206,7 +220,6 @@
     "obsidian.md",
     "Permanent note",
     "Literature note",
-    "Obsidian圖片.md",
     "Pasted image 20240507103546.png",
     "Fleet note/Welcome.md",
     "Fleet note"

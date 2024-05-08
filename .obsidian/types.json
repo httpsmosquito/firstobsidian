@@ -6,6 +6,7 @@
     "date": "datetime",
     "Source URL": "text",
     "Author": "multitext",
-    "Topics": "multitext"
+    "Topics": "multitext",
+    "test": "text"
   }
 }

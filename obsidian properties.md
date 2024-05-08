@@ -4,5 +4,9 @@ Author:
   - "\rNicole van der Hoeven"
 Topics:
   - obsidian學習
+  - YAML
+  - properties
 Source URL: https://www.youtube.com/watch?v=RrxqkIhh9L8
+test: "[[properties]]"
 ---
+

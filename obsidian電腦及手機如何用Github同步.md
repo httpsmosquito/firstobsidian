@@ -34,7 +34,7 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 >git clone`https://github.com/httpsmosquito/firstobsidian.git`
 
 輸入github帳號密碼
-若有使用雙重認證(2FA)，請至github生成
+若有使用雙重認證(2FA)，請至github生成[[Personal Access Token]]
 
 
 

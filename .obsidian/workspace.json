@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/New note.md",
+                "file": "templates/New note.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f2f59d7ef5a8552",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/New note.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/New note.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/New note.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/New note.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -165,10 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c579014f61a5e0b6",
+  "active": "9f2f59d7ef5a8552",
   "lastOpenFiles": [
-    "Excalidraw/New note.md",
+    "templates/New note.md",
     "Untitled.md",
+    "templates",
     "Excalidraw/Drawing 2024-05-08 13.51.34.excalidraw.md",
     "Excalidraw/Drawing 2024-05-08 17.01.24.svg",
     "Excalidraw/Drawing 2024-05-08 17.01.24.md",
@@ -176,7 +188,6 @@
     "Excalidraw/New note 2024-05-08 16.59.05.md",
     "Untitled",
     "Untitled/New note.md",
-    "Excalidraw/New note.md",
     "Excalidraw/電源架構隨手記 2024-05-08 16.55.05.md",
     "電源架構隨手記.md",
     "---.md",

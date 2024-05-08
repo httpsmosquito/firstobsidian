@@ -2,11 +2,11 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-excalidraw-export-dark:
+excalidraw-open-md: true
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
-
+# [[{{title}}]]
+![[{{title.svg}}]]
 # Text Elements
 %%
 # Drawing

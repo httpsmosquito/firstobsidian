@@ -3,7 +3,7 @@
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "template",
+  "templateFilePath": "templates",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,

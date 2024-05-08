@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "Personal Access Token.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "obsidian電腦及手機如何用Github同步.md",
+            "file": "Personal Access Token.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "obsidian電腦及手機如何用Github同步.md",
+            "file": "Personal Access Token.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "obsidian電腦及手機如何用Github同步.md"
+            "file": "Personal Access Token.md"
           }
         }
       }
@@ -135,6 +135,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -145,6 +146,10 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "obsidian電腦及手機如何用Github同步.md",
+    "Personal Access Token.md",
+    "Untitled.svg",
+    "Untitled.md",
     "templates/New note.md",
     "templates",
     "/電源架構隨手記.md",
@@ -154,12 +159,10 @@
     "/Untitled.md",
     "/templates",
     "卡片盒筆記法.md",
-    "obsidian電腦及手機如何用Github同步.md",
     "properties.md",
     "obsidian properties.md",
     "/properties.md",
     "Number Heading.md",
-    "Personal Access Token.md",
     "/obsidian電腦及手機如何用Github同步.md",
     "/markdown語法.md",
     "/Personal Access Token.md",
@@ -170,7 +173,6 @@
     "markdown語法.md",
     "Untitled 2.md",
     "/卡片盒筆記法.md",
-    "/Untitled 2.md",
-    "Untitled.md"
+    "/Untitled 2.md"
   ]
 }

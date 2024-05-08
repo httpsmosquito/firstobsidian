@@ -16,4 +16,17 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 ## 2. 手機端
 1.使用Iphone下載obsidian跟iSH
 2.在檔案中確認有沒有obsidian資料夾存在
-3.在iSH中值刑
+3.在iSH中執行
+>apk update & upgrade
+更新
+
+>apk add git
+下載git
+
+>mount -t ios . /mnt
+>會開啟檔案
+>選擇要放obsidian vault的地方
+
+
+
+

@@ -6,6 +6,7 @@
       {
         "id": "52c27f6727a36ba5",
         "type": "tabs",
+        "dimension": 70.32967032967034,
         "children": [
           {
             "id": "109835106d54efa8",
@@ -51,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown語法.md",
+                "file": "obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,6 +64,7 @@
       {
         "id": "64aeda5e13a94619",
         "type": "tabs",
+        "dimension": 29.67032967032967,
         "children": [
           {
             "id": "e778e7a348afdd71",
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown語法.md",
+                "file": "obsidian電腦及手機如何用Github同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown語法.md",
+                "file": "obsidian電腦及手機如何用Github同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown語法.md"
+                "file": "obsidian電腦及手機如何用Github同步.md"
               }
             }
           },
@@ -200,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "markdown語法.md"
+                "file": "obsidian電腦及手機如何用Github同步.md"
               }
             }
           }
@@ -209,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +225,10 @@
   },
   "active": "5d4953fa4f556c73",
   "lastOpenFiles": [
+    "markdown語法.md",
     "obsidian電腦及手機如何用Github同步.md",
     "obsidian properties.md",
     "Number Heading.md",
-    "markdown語法.md",
     "電源架構隨手記.md",
     "卡片盒筆記法.md",
     "obsidian.md",

@@ -11,7 +11,4 @@ Source URL: https://www.youtube.com/watch?v=RrxqkIhh9L8
 test: "[[properties]]"
 ---
 
-# JJJ
-## 1 KKK
-### 1.1 LLL
-
+利用properties可以更好的連結筆記，並且從右側properties面板查詢或編輯，透過輸入屬性，能更好運用obsidian

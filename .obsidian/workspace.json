@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Heading.md",
+                "file": "obsidian properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Heading.md",
+                "file": "obsidian properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Heading.md",
+                "file": "obsidian properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Heading.md"
+                "file": "obsidian properties.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Number Heading.md"
+                "file": "obsidian properties.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "5d4953fa4f556c73",
   "lastOpenFiles": [
-    "obsidian properties.md",
     "Number Heading.md",
+    "obsidian.md",
+    "obsidian properties.md",
     "obsidian-vault.md",
     "Obsidian圖片.md",
     "properties.md",
@@ -217,7 +218,6 @@
     "Project-related note/電源架構",
     "Project-related note/韓文",
     "Project-related note",
-    "obsidian.md",
     "Permanent note",
     "Literature note",
     "Pasted image 20240507103546.png",

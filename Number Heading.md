@@ -15,4 +15,5 @@ number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 	也可以在YAML區刪除^toc的指令
 ### 1.2. number heading寫在YAML區
 	number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
-	"auto"刪除則
+	"auto"刪除則不會自動編號
+	須從ctrl+P熱鍵中Setting number heading才會套用

@@ -187,8 +187,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "f8b86f171f09edc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -204,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba5a04c770120aa0",
+  "active": "f8b86f171f09edc2",
   "lastOpenFiles": [
     "卡片盒筆記法.md",
     "Untitled.md",

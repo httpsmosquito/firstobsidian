@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒筆記法.md",
+                "file": "obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,6 +71,18 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "39f5a8d5af59c4d3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "卡片盒筆記法.md",
+            "file": "obsidian電腦及手機如何用Github同步.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "卡片盒筆記法.md",
+            "file": "obsidian電腦及手機如何用Github同步.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "卡片盒筆記法.md"
+            "file": "obsidian電腦及手機如何用Github同步.md"
           }
         }
       }
@@ -133,16 +145,32 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "templates/New note.md",
+    "templates",
+    "/電源架構隨手記.md",
+    "/templates/New note.md",
+    "/obsidian properties.md",
+    "/Untitled.svg",
+    "/Untitled.md",
+    "/templates",
+    "卡片盒筆記法.md",
+    "obsidian電腦及手機如何用Github同步.md",
+    "properties.md",
+    "obsidian properties.md",
+    "/properties.md",
+    "Number Heading.md",
+    "Personal Access Token.md",
+    "/obsidian電腦及手機如何用Github同步.md",
+    "/markdown語法.md",
+    "/Personal Access Token.md",
+    "/Number Heading.md",
+    "/---.md",
     "電源架構隨手記.md",
     "---.md",
-    "卡片盒筆記法.md",
     "markdown語法.md",
     "Untitled 2.md",
-    "/markdown語法.md",
     "/卡片盒筆記法.md",
     "/Untitled 2.md",
-    "/---.md",
-    "Untitled.md",
-    "/Untitled.md"
+    "Untitled.md"
   ]
 }

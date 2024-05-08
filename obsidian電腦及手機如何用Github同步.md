@@ -27,6 +27,16 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 >會開啟檔案
 >選擇要放obsidian vault的地方
 
+>cd/mnt
+
+>ls
+
+>git clone`https://github.com/httpsmosquito/firstobsidian.git`
+
+輸入github帳號密碼
+若有使用雙重認證(2FA)，請至github生成
+
+
 
 
 

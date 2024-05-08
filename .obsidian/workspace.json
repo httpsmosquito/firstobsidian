@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "markdown語法.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "markdown語法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "markdown語法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md"
+                "file": "markdown語法.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md"
+                "file": "markdown語法.md"
               }
             }
           }
@@ -221,15 +221,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e778e7a348afdd71",
+  "active": "5d4953fa4f556c73",
   "lastOpenFiles": [
+    "obsidian電腦及手機如何用Github同步.md",
     "obsidian properties.md",
     "Number Heading.md",
     "markdown語法.md",
     "電源架構隨手記.md",
     "卡片盒筆記法.md",
     "obsidian.md",
-    "obsidian電腦及手機如何用Github同步.md",
     "Obsidian圖片.md",
     "properties.md",
     "---.md",

@@ -23,9 +23,11 @@
             "id": "9f2f59d7ef5a8552",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.md"
+                "file": "templates/New note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "templates/New note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "templates/New note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "templates/New note.md"
               }
             }
           },
@@ -154,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "templates/New note.md"
               }
             }
           }
@@ -178,8 +180,9 @@
   },
   "active": "9f2f59d7ef5a8552",
   "lastOpenFiles": [
-    "templates/New note.md",
     "Untitled.md",
+    "Untitled.svg",
+    "templates/New note.md",
     "templates",
     "Excalidraw/Drawing 2024-05-08 13.51.34.excalidraw.md",
     "Excalidraw/Drawing 2024-05-08 17.01.24.svg",

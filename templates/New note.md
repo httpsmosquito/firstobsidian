@@ -6,7 +6,7 @@ excalidraw-open-md: true
 ---
 
 # [[{{title}}]]
-![[{{title.svg}}]]
+![[{{title}}.svg]]
 # Text Elements
 %%
 # Drawing

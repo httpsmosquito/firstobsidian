@@ -6,9 +6,10 @@ excalidraw-open-md: true
 ---
 
 # [[Untitled]]
-![[{{title.svg}}]]
+![[Untitled.svg]]
 # Text Elements
-this is a nothing ^Yn1X6FVc
+this is
+ ^tlXTokNZ
 
 %%
 # Drawing
@@ -20,8 +21,8 @@ this is a nothing ^Yn1X6FVc
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 16,
-			"versionNonce": 464800995,
+			"version": 15,
+			"versionNonce": 2061055117,
 			"index": "a0",
 			"isDeleted": false,
 			"id": "WubmJBX0y5-EORFvPhMjX",
@@ -43,51 +44,46 @@ this is a nothing ^Yn1X6FVc
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "Yn1X6FVc"
-				}
-			],
-			"updated": 1715159368656,
+			"boundElements": [],
+			"updated": 1715159008582,
 			"link": null,
 			"locked": false
 		},
 		{
+			"id": "tlXTokNZ",
 			"type": "text",
-			"version": 20,
-			"versionNonce": 671196141,
-			"index": "a1",
-			"isDeleted": false,
-			"id": "Yn1X6FVc",
+			"x": -52.19999694824219,
+			"y": -173.35624313354492,
+			"width": 61.65992736816406,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -82.89995574951172,
-			"y": -170.03749084472656,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 84.99992370605469,
-			"height": 50,
-			"seed": 1273347181,
 			"groupIds": [],
 			"frameId": null,
+			"index": "a1",
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1715159379144,
+			"seed": 1226658787,
+			"version": 10,
+			"versionNonce": 1560603779,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715159835892,
 			"link": null,
 			"locked": false,
+			"text": "this is\n",
+			"rawText": "this is\n",
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "this is a\nnothing",
-			"rawText": "this is a nothing",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "WubmJBX0y5-EORFvPhMjX",
-			"originalText": "this is a nothing",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "this is\n",
 			"lineHeight": 1.25
 		}
 	],

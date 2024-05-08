@@ -12,6 +12,7 @@ number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 	- [[#1.1. 在一級標題後方輸入"^toc"命令，會動態生成目錄|1.1. 在一級標題後方輸入"]]
 	- [[#1.2. number heading寫在YAML區|1.2. number heading寫在YAML區]]
 ### 1.1. 在一級標題後方輸入"^toc"命令，會動態生成目錄
-	
+	也可以在YAML區刪除^toc的指令
 ### 1.2. number heading寫在YAML區
 	number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
+	"auto"刪除則

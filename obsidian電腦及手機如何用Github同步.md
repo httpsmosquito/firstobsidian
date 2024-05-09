@@ -6,6 +6,8 @@ Topics:
   - github同步
 Source URL: https://blog.poychang.net/obsidian-sync-between-desktop-and-mobile-with-git/
 ---
+
+
 ## 1. 電腦端
 1.在github.com建立一個空的Repository(設為私人)，點進去->code->HTTP->複製網址`https://github.com/httpsmosquito/firstobsidian.git`
 httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱

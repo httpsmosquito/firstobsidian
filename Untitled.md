@@ -12,7 +12,6 @@ excalidraw-open-md: true
 this is
  ^tlXTokNZ
 
-
 # Drawing
 ```json
 {
@@ -52,8 +51,8 @@ this is
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 505000012,
+			"version": 56,
+			"versionNonce": 1633472126,
 			"index": "a1",
 			"isDeleted": false,
 			"id": "tlXTokNZ",
@@ -74,7 +73,7 @@ this is
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715179534057,
+			"updated": 1715218995719,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -103,8 +102,8 @@ this is
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 207.73333740234375,
-		"scrollY": 303.61561584472656,
+		"scrollX": 244.85833740234375,
+		"scrollY": 337.51873779296875,
 		"zoom": {
 			"value": 2
 		},

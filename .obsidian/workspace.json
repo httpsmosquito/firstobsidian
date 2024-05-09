@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒筆記法.md",
+                "file": "Number Heading.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ee354fc114af96c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Number Heading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Number Heading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Number Heading.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Number Heading.md"
               }
             }
           }
@@ -190,12 +177,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ee354fc114af96c",
+  "active": "9159f9153879a589",
   "lastOpenFiles": [
-    "Untitled.svg",
-    "Untitled.md",
-    "Excalidraw-Obsidian.md",
+    "obsidian properties.md",
     "卡片盒筆記法.md",
+    "properties.md",
+    "Untitled.md",
+    "Untitled.svg",
+    "Number Heading.md",
+    "Excalidraw-Obsidian.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
     "templates/New note.md",
@@ -215,8 +205,6 @@
     "firstobsidian",
     "obsidian-vault.md",
     "templates",
-    "obsidian properties.md",
-    "Number Heading.md",
     "markdown語法.md",
     "電源架構隨手記.md",
     "---.md",

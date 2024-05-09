@@ -51,7 +51,7 @@
   "showSecondOrderLinks": true,
   "focusOnFileTab": false,
   "openInMainWorkspace": true,
-  "showLinkBrackets": true,
+  "showLinkBrackets": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,

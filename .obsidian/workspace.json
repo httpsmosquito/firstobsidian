@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw-Obsidian.md",
+                "file": "obsidian properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw-Obsidian.md",
+                "file": "obsidian properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw-Obsidian.md",
+                "file": "obsidian properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw-Obsidian.md"
+                "file": "obsidian properties.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw-Obsidian.md"
+                "file": "obsidian properties.md"
               }
             }
           }
@@ -177,13 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f91cb161448da3ad",
+  "active": "ac4d9aea64a09fee",
   "lastOpenFiles": [
-    "baby looney tunes (1).jpg",
-    "Excalidraw-Obsidian.md",
-    "markdown語法.md",
-    "Number Heading.md",
+    "templates/New note.md",
     "obsidian properties.md",
+    "Number Heading.md",
+    "markdown語法.md",
+    "Excalidraw-Obsidian.md",
+    "baby looney tunes (1).jpg",
     "Excalidraw/test.md",
     "Untitled.md",
     "Untitled.svg",
@@ -199,7 +200,6 @@
     "properties.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
-    "templates/New note.md",
     "Excalidraw/Drawing 2024-05-09 08.52.29.md",
     "conflict-files-obsidian-git.md",
     "firstobsidian/電源架構隨手記.md",

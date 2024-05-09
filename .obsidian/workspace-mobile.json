@@ -11,10 +11,8 @@
             "id": "29be5265216f8a31",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "baby looney tunes (1).jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "baby looney tunes (1).jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "baby looney tunes (1).jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "baby looney tunes (1).jpg"
-          }
+          "state": {}
         }
       }
     ],
@@ -145,6 +139,8 @@
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
     "baby looney tunes (1).jpg",
+    "baby looney tunes.jpg",
+    "/baby looney tunes.jpg",
     "/baby looney tunes (1).jpg",
     "Untitled.svg",
     "Excalidraw-Obsidian.md",
@@ -164,11 +160,9 @@
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.svg",
     "/Untitled.svg",
     "/Untitled.md",
-    "/Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
     "/Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
     "/Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",
     "/Untitled 1.md",
-    "/Pasted image 20240509100832.jpg",
     "/Literature note/obsidian電腦及手機如何用Github同步.md",
     "/Literature note/Personal Access Token.md",
     "/Excalidraw-Obsidian.md",

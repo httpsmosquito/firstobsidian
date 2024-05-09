@@ -16,6 +16,8 @@ excalidraw-open-md: true
 this is
  ^tlXTokNZ
 
+test message ^LK23pH3v
+
 # Element Links
 hkKOdTYT: [[Untitled.md#test]]
 
@@ -125,8 +127,8 @@ hkKOdTYT: [[Untitled.md#test]]
 		},
 		{
 			"type": "embeddable",
-			"version": 3,
-			"versionNonce": 263524578,
+			"version": 4,
+			"versionNonce": 263524579,
 			"index": "a4",
 			"isDeleted": false,
 			"id": "hkKOdTYT",
@@ -167,6 +169,135 @@ hkKOdTYT: [[Untitled.md#test]]
 				1,
 				1
 			]
+		},
+		{
+			"type": "text",
+			"version": 20,
+			"versionNonce": 1511462078,
+			"index": "a6",
+			"isDeleted": false,
+			"id": "LK23pH3v",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -431.40145206500495,
+			"y": -522.9360215900786,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 134.01986694335938,
+			"height": 25,
+			"seed": 1281718270,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715219420593,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "test message",
+			"rawText": "test message",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "test message",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "terwDKx-d7qwzLa3C4Zeq",
+			"type": "freedraw",
+			"x": -419.8741402854282,
+			"y": -481.60763671863646,
+			"width": 12.307692307692264,
+			"height": 40,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "a7",
+			"roundness": null,
+			"seed": 663255394,
+			"version": 16,
+			"versionNonce": 1161496034,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715219440211,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.692298302283632,
+					4.307673527644226
+				],
+				[
+					-6.7692213792066696,
+					8.61537053034857
+				],
+				[
+					-7.9999953049879196,
+					13.53844275841351
+				],
+				[
+					-10.46154315655042,
+					21.538461538461547
+				],
+				[
+					-11.692293607271608,
+					25.846135066105774
+				],
+				[
+					-12.307692307692264,
+					34.46152907151446
+				],
+				[
+					-12.307692307692264,
+					38.153827373798094
+				],
+				[
+					-11.692293607271608,
+					39.384601299579344
+				],
+				[
+					-11.076918381911014,
+					40
+				],
+				[
+					-9.846144456129764,
+					40
+				],
+				[
+					-6.7692213792066696,
+					38.153827373798094
+				],
+				[
+					-2.461524376502382,
+					35.69230299729571
+				],
+				[
+					-2.461524376502382,
+					35.69230299729571
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-2.461524376502382,
+				35.69230299729571
+			]
 		}
 	],
 	"appState": {
@@ -184,10 +315,10 @@ hkKOdTYT: [[Untitled.md#test]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 541.9849155484276,
-		"scrollY": 660.5412803161363,
+		"scrollX": 603.720294131582,
+		"scrollY": 628.319185743952,
 		"zoom": {
-			"value": 1.4000000000000001
+			"value": 1.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

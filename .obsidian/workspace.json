@@ -11,9 +11,11 @@
             "id": "9159f9153879a589",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.md"
+                "file": "obsidian properties.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "obsidian properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "obsidian properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "obsidian properties.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "obsidian properties.md"
               }
             }
           }
@@ -177,9 +179,9 @@
   },
   "active": "9159f9153879a589",
   "lastOpenFiles": [
-    "obsidian properties.md",
-    "Untitled.md",
     "Untitled.svg",
+    "Untitled.md",
+    "obsidian properties.md",
     "Number Heading.md",
     "卡片盒筆記法.md",
     "properties.md",

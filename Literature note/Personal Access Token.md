@@ -3,6 +3,7 @@ created: 2024-05-08T12:09:00
 Topics:
   - github
   - github Personal Access Token
+Source URL: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 ---
 先設好雙重認證(2FA)
 

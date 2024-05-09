@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
-                "mode": "source",
+                "file": "卡片盒筆記法.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "卡片盒筆記法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md",
+                "file": "卡片盒筆記法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian電腦及手機如何用Github同步.md"
+                "file": "卡片盒筆記法.md"
               }
             }
           },
@@ -169,11 +169,12 @@
   },
   "active": "9159f9153879a589",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-09 08.52.29.md",
-    "obsidian電腦及手機如何用Github同步.md",
-    "Untitled.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Literature note/Personal Access Token.md",
     "Untitled.svg",
     "templates/New note.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-05-09 08.52.29.md",
     "conflict-files-obsidian-git.md",
     "firstobsidian/電源架構隨手記.md",
     "firstobsidian/卡片盒筆記法.md",
@@ -190,7 +191,6 @@
     "obsidian-vault.md",
     "templates",
     "obsidian properties.md",
-    "Personal Access Token.md",
     "Number Heading.md",
     "markdown語法.md",
     "電源架構隨手記.md",
@@ -205,7 +205,6 @@
     "Literature note",
     "Obsidian圖片.md",
     "Pasted image 20240507103546.png",
-    "Fleet note/Welcome.md",
     "Fleet note"
   ]
 }

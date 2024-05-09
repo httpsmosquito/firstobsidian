@@ -11,8 +11,11 @@
             "id": "ac4d9aea64a09fee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "obsidian properties.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -158,21 +161,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ac4d9aea64a09fee",
   "lastOpenFiles": [
+    "obsidian properties.md",
+    "baby looney tunes.jpg",
     "Excalidraw/test.svg",
     "Excalidraw/Drawing 2024-05-09 10.00.18.excalidraw.svg",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
-    "obsidian properties.md",
     "templates/New note.md",
     "Number Heading.md",
     "markdown語法.md",

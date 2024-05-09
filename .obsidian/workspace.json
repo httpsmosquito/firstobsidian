@@ -11,11 +11,10 @@
             "id": "ac4d9aea64a09fee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Excalidraw-Obsidian.md",
-                "mode": "source",
-                "source": false
+                "file": "obsidian properties.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw-Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw-Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw-Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw-Obsidian.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,38 +161,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f91cb161448da3ad",
+  "active": "ac4d9aea64a09fee",
   "lastOpenFiles": [
-    "baby looney tunes (1).jpg",
-    "Excalidraw-Obsidian.md",
-    "markdown語法.md",
-    "Number Heading.md",
     "obsidian properties.md",
+    "baby looney tunes.jpg",
+    "Excalidraw/test.svg",
+    "Excalidraw/Drawing 2024-05-09 10.00.18.excalidraw.svg",
+    "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
+    "templates/New note.md",
+    "Number Heading.md",
+    "markdown語法.md",
+    "Excalidraw-Obsidian.md",
+    "baby looney tunes (1).jpg",
     "Excalidraw/test.md",
     "Untitled.md",
     "Untitled.svg",
     "Pasted image 20240509100832.jpg",
     "Untitled 1.md",
-    "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-09 10.00.18.excalidraw.svg",
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.svg",
-    "Excalidraw/test.svg",
     "卡片盒筆記法.md",
     "properties.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
-    "templates/New note.md",
     "Excalidraw/Drawing 2024-05-09 08.52.29.md",
     "conflict-files-obsidian-git.md",
     "firstobsidian/電源架構隨手記.md",

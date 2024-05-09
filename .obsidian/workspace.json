@@ -11,9 +11,11 @@
             "id": "ac4d9aea64a09fee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "baby looney tunes (1).jpg"
+                "file": "Excalidraw-Obsidian.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baby looney tunes (1).jpg",
+                "file": "Excalidraw-Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baby looney tunes (1).jpg",
+                "file": "Excalidraw-Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baby looney tunes (1).jpg"
+                "file": "Excalidraw-Obsidian.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "baby looney tunes (1).jpg"
+                "file": "Excalidraw-Obsidian.md"
               }
             }
           }
@@ -177,8 +179,8 @@
   },
   "active": "ac4d9aea64a09fee",
   "lastOpenFiles": [
-    "Excalidraw-Obsidian.md",
     "baby looney tunes (1).jpg",
+    "Excalidraw-Obsidian.md",
     "markdown語法.md",
     "Number Heading.md",
     "obsidian properties.md",

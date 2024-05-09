@@ -8,55 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9159f9153879a589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac4d9aea64a09fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c963642ad5cb192d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ccd4d56174f645ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b4a9c5bdc1ab7a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw-Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw-Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw-Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Excalidraw-Obsidian.md"
               }
             }
           },
@@ -198,17 +155,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Excalidraw-Obsidian.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,24 +177,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c963642ad5cb192d",
+  "active": "ac4d9aea64a09fee",
   "lastOpenFiles": [
-    "Pasted image 20240509100832.jpg",
+    "baby looney tunes (1).jpg",
+    "Excalidraw-Obsidian.md",
+    "markdown語法.md",
+    "Number Heading.md",
+    "obsidian properties.md",
+    "Excalidraw/test.md",
     "Untitled.md",
     "Untitled.svg",
+    "Pasted image 20240509100832.jpg",
     "Untitled 1.md",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
     "Excalidraw/Drawing 2024-05-09 10.00.18.excalidraw.svg",
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.svg",
-    "Excalidraw/test.md",
     "Excalidraw/test.svg",
-    "obsidian properties.md",
-    "Number Heading.md",
     "卡片盒筆記法.md",
     "properties.md",
-    "Excalidraw-Obsidian.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
     "templates/New note.md",
@@ -256,7 +214,6 @@
     "firstobsidian/Personal Access Token.md",
     "firstobsidian/Number Heading.md",
     "firstobsidian",
-    "obsidian-vault.md",
     "templates",
     "Project-related note/電源架構",
     "Project-related note/韓文",

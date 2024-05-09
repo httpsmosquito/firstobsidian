@@ -1,1 +1,0 @@
-![[Untitled 1 2024-05-09 10.04.19.excalidraw]]![[Untitled 1 2024-05-09 10.02.37.excalidraw]]https://drive.google.com/drive/u/0/my-drive

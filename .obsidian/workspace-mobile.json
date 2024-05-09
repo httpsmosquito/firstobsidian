@@ -11,8 +11,10 @@
             "id": "29be5265216f8a31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "baby looney tunes (1).jpg"
+              }
             }
           }
         ]
@@ -93,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "baby looney tunes (1).jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "baby looney tunes (1).jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "baby looney tunes (1).jpg"
+          }
         }
       }
     ],

@@ -7,10 +7,17 @@ excalidraw-open-md: true
 
 # [[Untitled]]
 ![[Untitled.svg]]
+
+# test
+
+#
 %%
 # Text Elements
 this is
  ^tlXTokNZ
+
+# Element Links
+hkKOdTYT: [[Untitled.md#test]]
 
 # Drawing
 ```json
@@ -85,6 +92,81 @@ this is
 			"containerId": null,
 			"originalText": "this is\n",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "rectangle",
+			"version": 18,
+			"versionNonce": 1730386786,
+			"index": "a3",
+			"isDeleted": false,
+			"id": "Ldx_YeDA-4OZBRqCCwdJ_",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -22.558319091796875,
+			"y": -166.95623397827148,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 66,
+			"height": 0.399993896484375,
+			"seed": 723165054,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1715219246359,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "embeddable",
+			"version": 3,
+			"versionNonce": 263524578,
+			"index": "a4",
+			"isDeleted": false,
+			"id": "hkKOdTYT",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -582.1277596123227,
+			"y": -605.1662792262227,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 400,
+			"height": 500,
+			"seed": 55310,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715219376141,
+			"link": "[[Untitled.md#test]]",
+			"locked": false,
+			"customData": {
+				"mdProps": {
+					"useObsidianDefaults": false,
+					"backgroundMatchCanvas": false,
+					"backgroundMatchElement": true,
+					"backgroundColor": "#fff",
+					"backgroundOpacity": 60,
+					"borderMatchElement": true,
+					"borderColor": "#fff",
+					"borderOpacity": 0,
+					"filenameVisible": false
+				}
+			},
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -102,10 +184,10 @@ this is
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 244.85833740234375,
-		"scrollY": 337.51873779296875,
+		"scrollX": 541.9849155484276,
+		"scrollY": 660.5412803161363,
 		"zoom": {
-			"value": 2
+			"value": 1.4000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

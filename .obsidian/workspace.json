@@ -11,11 +11,9 @@
             "id": "9159f9153879a589",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Number Heading.md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Heading.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Heading.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Heading.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -155,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Number Heading.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -180,11 +178,11 @@
   "active": "9159f9153879a589",
   "lastOpenFiles": [
     "obsidian properties.md",
-    "卡片盒筆記法.md",
-    "properties.md",
     "Untitled.md",
     "Untitled.svg",
     "Number Heading.md",
+    "卡片盒筆記法.md",
+    "properties.md",
     "Excalidraw-Obsidian.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
@@ -212,7 +210,6 @@
     "Project-related note/電源架構",
     "Project-related note/韓文",
     "Project-related note",
-    "obsidian.md",
     "Permanent note",
     "Literature note",
     "Pasted image 20240507103546.png",

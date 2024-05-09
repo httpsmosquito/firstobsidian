@@ -8,5 +8,14 @@
       ],
       "key": "E"
     }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

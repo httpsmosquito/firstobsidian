@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -191,6 +191,7 @@
   },
   "active": "c46f1f2410a76e50",
   "lastOpenFiles": [
+    "Pasted image 20240510142429.png",
     "光耦合器.md",
     "電源架構隨手記.md",
     "obsidian properties.md",
@@ -226,7 +227,6 @@
     "firstobsidian/markdown語法.md",
     "firstobsidian/Untitled.svg",
     "firstobsidian/Untitled.md",
-    "firstobsidian/Personal Access Token.md",
     "firstobsidian",
     "templates",
     "Project-related note/電源架構",

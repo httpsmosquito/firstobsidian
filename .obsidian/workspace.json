@@ -29,9 +29,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af52e404b0eaa49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零件收納.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "電子元件",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "光耦合器.md",
+                "file": "零件收納.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "光耦合器.md",
+                "file": "零件收納.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "光耦合器.md"
+                "file": "零件收納.md"
               }
             }
           },
@@ -168,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "光耦合器.md"
+                "file": "零件收納.md"
               }
             }
           }
@@ -190,10 +201,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8517b29220777da9",
+  "active": "af52e404b0eaa49d",
   "lastOpenFiles": [
-    "Pasted image 20240510142429.png",
     "光耦合器.md",
+    "零件收納.md",
+    "Pasted image 20240510142429.png",
     "電源架構隨手記.md",
     "obsidian properties.md",
     "baby looney tunes.jpg",
@@ -235,7 +247,6 @@
     "Project-related note",
     "Permanent note",
     "Literature note",
-    "Pasted image 20240507103546.png",
     "Fleet note"
   ]
 }

@@ -11,15 +11,27 @@
             "id": "ac4d9aea64a09fee",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "obsidian properties.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "c46f1f2410a76e50",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "電源架構隨手記.md",
+                "file": "光耦合器.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "電源架構隨手記.md",
+                "file": "光耦合器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "電源架構隨手記.md",
+                "file": "光耦合器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "電源架構隨手記.md"
+                "file": "光耦合器.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "電源架構隨手記.md"
+                "file": "光耦合器.md"
               }
             }
           }
@@ -164,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac4d9aea64a09fee",
+  "active": "c46f1f2410a76e50",
   "lastOpenFiles": [
+    "光耦合器.md",
+    "電源架構隨手記.md",
     "obsidian properties.md",
     "baby looney tunes.jpg",
     "Excalidraw/test.svg",
@@ -213,7 +227,6 @@
     "firstobsidian/Untitled.svg",
     "firstobsidian/Untitled.md",
     "firstobsidian/Personal Access Token.md",
-    "firstobsidian/Number Heading.md",
     "firstobsidian",
     "templates",
     "Project-related note/電源架構",

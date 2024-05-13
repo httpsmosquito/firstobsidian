@@ -31,6 +31,18 @@
             }
           },
           {
+            "id": "d601d349232324ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IGBT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af52e404b0eaa49d",
             "type": "leaf",
             "state": {
@@ -43,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "IGBT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "IGBT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature note/Personal Access Token.md"
+                "file": "IGBT.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Literature note/Personal Access Token.md"
+                "file": "IGBT.md"
               }
             }
           }
@@ -201,8 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c46f1f2410a76e50",
+  "active": "d601d349232324ab",
   "lastOpenFiles": [
+    "Pasted image 20240513133328.png",
+    "Literature note/Personal Access Token.md",
+    "IGBT.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Project-related note/電源架構/光耦合器.md",
     "零件收納.md",
@@ -231,14 +246,12 @@
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.svg",
     "卡片盒筆記法.md",
     "properties.md",
-    "Literature note/Personal Access Token.md",
     "Excalidraw/Drawing 2024-05-09 08.52.29.md",
     "conflict-files-obsidian-git.md",
     "firstobsidian/電源架構隨手記.md",
     "firstobsidian/卡片盒筆記法.md",
     "firstobsidian/templates/New note.md",
     "firstobsidian/templates",
-    "firstobsidian/obsidian電腦及手機如何用Github同步.md",
     "firstobsidian",
     "templates",
     "Project-related note/電源架構",

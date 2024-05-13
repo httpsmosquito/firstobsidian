@@ -43,6 +43,18 @@
             }
           },
           {
+            "id": "5ade82f7b4fa1916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIC碳化硅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af52e404b0eaa49d",
             "type": "leaf",
             "state": {
@@ -55,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IGBT.md",
+                "file": "SIC碳化硅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IGBT.md",
+                "file": "SIC碳化硅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IGBT.md"
+                "file": "SIC碳化硅.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IGBT.md"
+                "file": "SIC碳化硅.md"
               }
             }
           }
@@ -213,19 +225,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d601d349232324ab",
+  "active": "5ade82f7b4fa1916",
   "lastOpenFiles": [
+    "IGBT.md",
+    "SIC碳化硅.md",
+    "Project-related note/電源架構/判斷MOS好壞.md",
+    "markdown語法.md",
+    "Pasted image 20240513134905.png",
     "Pasted image 20240513134609.png",
     "Pasted image 20240513134443.png",
     "Pasted image 20240513133328.png",
     "Literature note/Personal Access Token.md",
-    "IGBT.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Project-related note/電源架構/光耦合器.md",
     "零件收納.md",
     "Pasted image 20240513121416.png",
     "Pasted image 20240510142429.png",
-    "Project-related note/電源架構/判斷MOS好壞.md",
     "20240512日記.md",
     "電源架構隨手記.md",
     "obsidian properties.md",
@@ -235,12 +250,9 @@
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
     "templates/New note.md",
     "Number Heading.md",
-    "markdown語法.md",
     "Excalidraw-Obsidian.md",
-    "baby looney tunes (1).jpg",
     "Excalidraw/test.md",
     "Untitled.md",
-    "Untitled.svg",
     "Untitled 1.md",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",

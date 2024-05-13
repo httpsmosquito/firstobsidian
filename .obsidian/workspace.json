@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "光耦合器.md",
+                "file": "Literature note/Personal Access Token.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,21 +41,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1fc66887adc77ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "判斷MOS好壞.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "判斷MOS好壞.md",
+                "file": "Literature note/Personal Access Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "判斷MOS好壞.md",
+                "file": "Literature note/Personal Access Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "判斷MOS好壞.md"
+                "file": "Literature note/Personal Access Token.md"
               }
             }
           },
@@ -191,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "判斷MOS好壞.md"
+                "file": "Literature note/Personal Access Token.md"
               }
             }
           }
@@ -213,14 +201,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fc66887adc77ed5",
+  "active": "c46f1f2410a76e50",
   "lastOpenFiles": [
-    "Pasted image 20240513121416.png",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Project-related note/電源架構/光耦合器.md",
     "零件收納.md",
-    "判斷MOS好壞.md",
-    "20240512日記.md",
-    "光耦合器.md",
+    "Pasted image 20240513121416.png",
     "Pasted image 20240510142429.png",
+    "Project-related note/電源架構/判斷MOS好壞.md",
+    "20240512日記.md",
     "電源架構隨手記.md",
     "obsidian properties.md",
     "baby looney tunes.jpg",
@@ -242,7 +231,6 @@
     "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.svg",
     "卡片盒筆記法.md",
     "properties.md",
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
     "Excalidraw/Drawing 2024-05-09 08.52.29.md",
     "conflict-files-obsidian-git.md",
@@ -251,7 +239,6 @@
     "firstobsidian/templates/New note.md",
     "firstobsidian/templates",
     "firstobsidian/obsidian電腦及手機如何用Github同步.md",
-    "firstobsidian/Untitled.svg",
     "firstobsidian",
     "templates",
     "Project-related note/電源架構",

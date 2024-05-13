@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "零件收納.md",
+                "file": "Project-related note/電源架構/判斷MOS好壞.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "零件收納.md",
+            "file": "Project-related note/電源架構/判斷MOS好壞.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "零件收納.md",
+            "file": "Project-related note/電源架構/判斷MOS好壞.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "零件收納.md"
+            "file": "Project-related note/電源架構/判斷MOS好壞.md"
           }
         }
       }
@@ -146,47 +146,51 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "/附件圖/baby looney tunes.jpg",
+    "上標、下標.md",
+    "SIC碳化硅.md",
+    "附件圖/Pasted image 20240513165442.png",
+    "附件圖/Pasted image 20240513121416.png",
+    "附件圖/Pasted image 20240513134609.png",
+    "附件圖/Pasted image 20240513163546.png",
+    "附件圖/Pasted image 20240513133328.png",
+    "附件圖/Pasted image 20240513134905.png",
+    "附件圖/Pasted image 20240513134443.png",
+    "附件圖/Pasted image 20240513165415.png",
+    "附件圖/Pasted image 20240510142429.png",
+    "附件圖",
+    "IGBT.md",
+    "橋式整流.md",
+    "能隙.md",
+    "/附件圖/Pasted image 20240510142429.png",
+    "/能隙.md",
+    "/橋式整流.md",
+    "/上標、下標.md",
+    "/SIC碳化硅.md",
+    "/IGBT.md",
+    "/附件圖",
+    "零件收納.md",
+    "Project-related note/電源架構/判斷MOS好壞.md",
+    "Project-related note/電源架構/光耦合器.md",
+    "Project-related note/電源架構",
+    "Project-related note",
+    "/Project-related note/電源架構/光耦合器.md",
+    "/Project-related note/電源架構/判斷MOS好壞.md",
+    "/Project-related note/電源架構",
+    "/Project-related note",
     "20240512日記.md",
     "光耦合器.md",
-    "零件收納.md",
-    "Pasted image 20240510142429.png",
     "/零件收納.md",
     "/光耦合器.md",
-    "/Pasted image 20240510142429.png",
-    "baby looney tunes (1).jpg",
-    "baby looney tunes.jpg",
-    "/baby looney tunes.jpg",
-    "/baby looney tunes (1).jpg",
-    "Untitled.svg",
     "Excalidraw-Obsidian.md",
-    "Pasted image 20240509100832.jpg",
     "obsidian電腦及手機如何用Github同步.md",
     "Excalidraw",
-    "Excalidraw/test.svg",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
     "Excalidraw/test.md",
     "Literature note/Personal Access Token.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note",
-    "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.svg",
-    "Untitled 1.md",
-    "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",
-    "/Untitled.md",
-    "/Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
-    "/Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",
-    "/Untitled 1.md",
-    "/Literature note/obsidian電腦及手機如何用Github同步.md",
-    "/Literature note/Personal Access Token.md",
-    "/Excalidraw-Obsidian.md",
-    "/Excalidraw/test.md",
     "/Literature note",
-    "/Excalidraw",
-    "Personal Access Token.md",
-    "templates/New note.md",
-    "templates",
-    "/電源架構隨手記.md",
-    "/templates/New note.md",
-    "/obsidian properties.md",
-    "/templates"
+    "/Excalidraw"
   ]
 }

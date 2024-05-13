@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-related note/電源架構/判斷MOS好壞.md",
+                "file": "卡片盒筆記法.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Project-related note/電源架構/判斷MOS好壞.md",
+            "file": "卡片盒筆記法.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Project-related note/電源架構/判斷MOS好壞.md",
+            "file": "卡片盒筆記法.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Project-related note/電源架構/判斷MOS好壞.md"
+            "file": "卡片盒筆記法.md"
           }
         }
       }
@@ -146,6 +146,8 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "Project-related note/電源架構/判斷MOS好壞.md",
+    "附件圖/baby looney tunes.jpg",
     "/附件圖/baby looney tunes.jpg",
     "上標、下標.md",
     "SIC碳化硅.md",
@@ -157,12 +159,10 @@
     "附件圖/Pasted image 20240513134905.png",
     "附件圖/Pasted image 20240513134443.png",
     "附件圖/Pasted image 20240513165415.png",
-    "附件圖/Pasted image 20240510142429.png",
     "附件圖",
     "IGBT.md",
     "橋式整流.md",
     "能隙.md",
-    "/附件圖/Pasted image 20240510142429.png",
     "/能隙.md",
     "/橋式整流.md",
     "/上標、下標.md",
@@ -170,7 +170,6 @@
     "/IGBT.md",
     "/附件圖",
     "零件收納.md",
-    "Project-related note/電源架構/判斷MOS好壞.md",
     "Project-related note/電源架構/光耦合器.md",
     "Project-related note/電源架構",
     "Project-related note",

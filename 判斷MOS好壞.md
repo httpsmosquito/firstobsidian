@@ -7,4 +7,7 @@ Source URL: https://www.youtube.com/watch?v=dEyiu8WgzpY
 Author:
   - 80小陳
 ---
-MOS介紹可看# 【知识】5分钟搞明白 三极管和mos管的区别
+MOS介紹可看[工科男孫老師_電晶體及MOS的差別](https://www.youtube.com/watch?v=SCLXFMR-UcQ)
+
+![[Pasted image 20240513121416.png]]
+123腳分別為GDS腳，當MOS燒毀時，高機率是DS間的二極體及穿

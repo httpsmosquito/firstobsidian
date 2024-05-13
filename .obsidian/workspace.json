@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad462b57835aa581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "橋式整流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,12 +190,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acd707fd147308a3",
+  "active": "ad462b57835aa581",
   "lastOpenFiles": [
-    "附件圖/Pasted image 20240513163546.png",
-    "橋式整流.md",
-    "附件圖/Pasted image 20240513134905.png",
+    "Excalidraw-Obsidian.md",
+    "markdown語法.md",
     "IGBT.md",
+    "Number Heading.md",
+    "SiC碳化硅.md",
+    "上標、下標.md",
+    "橋式整流.md",
+    "附件圖/Pasted image 20240513163546.png",
+    "附件圖/Pasted image 20240513134905.png",
     "附件圖/Pasted image 20240513134609.png",
     "附件圖/Pasted image 20240513134443.png",
     "附件圖/Pasted image 20240513133328.png",
@@ -190,11 +208,8 @@
     "附件圖/Pasted image 20240510142429.png",
     "附件圖/baby looney tunes.jpg",
     "附件圖",
-    "Excalidraw-Obsidian.md",
     "能隙.md",
-    "SiC碳化硅.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
-    "markdown語法.md",
     "Literature note/Personal Access Token.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Project-related note/電源架構/光耦合器.md",
@@ -205,7 +220,6 @@
     "Excalidraw/test.svg",
     "Excalidraw/Drawing 2024-05-09 10.00.18.excalidraw.svg",
     "templates/New note.md",
-    "Number Heading.md",
     "Excalidraw/test.md",
     "Untitled.md",
     "Untitled 1.md",

@@ -41,9 +41,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fc66887adc77ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "零件收納.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "零件收納.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "零件收納.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "零件收納.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -201,11 +213,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af52e404b0eaa49d",
+  "active": "1fc66887adc77ed5",
   "lastOpenFiles": [
+    "零件收納.md",
+    "未命名.md",
     "20240512日記.md",
     "光耦合器.md",
-    "零件收納.md",
     "Pasted image 20240510142429.png",
     "電源架構隨手記.md",
     "obsidian properties.md",
@@ -238,7 +251,6 @@
     "firstobsidian/templates",
     "firstobsidian/obsidian電腦及手機如何用Github同步.md",
     "firstobsidian/obsidian properties.md",
-    "firstobsidian/markdown語法.md",
     "firstobsidian/Untitled.svg",
     "firstobsidian",
     "templates",

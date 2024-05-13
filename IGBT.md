@@ -15,4 +15,4 @@ Source URL: https://www.youtube.com/watch?v=wqvEvHmNNZ8
 - 選擇開關的要點為：電流、耐壓、頻率，而MOS、BJT、IGBT有各自的缺點
 ![[Pasted image 20240513134905.png|350]]
 
-同時有電流、耐壓、頻率等優勢的元件：[[SIC碳化硅]]
+同時有電流、耐壓、頻率等優勢的元件：[[SiC碳化硅]]

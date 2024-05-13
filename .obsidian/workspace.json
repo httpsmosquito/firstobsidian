@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIC碳化硅.md",
+                "file": "SiC碳化硅.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IGBT.md",
+                "file": "SiC碳化硅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IGBT.md",
+                "file": "SiC碳化硅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IGBT.md"
+                "file": "SiC碳化硅.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IGBT.md"
+                "file": "SiC碳化硅.md"
               }
             }
           }
@@ -225,10 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d601d349232324ab",
+  "active": "5ade82f7b4fa1916",
   "lastOpenFiles": [
-    "SIC碳化硅.md",
     "IGBT.md",
+    "SiC碳化硅.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "markdown語法.md",
     "Pasted image 20240513134905.png",

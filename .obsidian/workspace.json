@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "能隙.md",
+                "file": "Excalidraw-Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "能隙.md",
+                "file": "Excalidraw-Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "能隙.md",
+                "file": "Excalidraw-Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "能隙.md"
+                "file": "Excalidraw-Obsidian.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "能隙.md"
+                "file": "Excalidraw-Obsidian.md"
               }
             }
           }
@@ -227,8 +227,8 @@
   },
   "active": "5ade82f7b4fa1916",
   "lastOpenFiles": [
-    "SiC碳化硅.md",
     "能隙.md",
+    "SiC碳化硅.md",
     "IGBT.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "markdown語法.md",

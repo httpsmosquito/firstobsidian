@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SiC碳化硅.md",
+                "file": "能隙.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SiC碳化硅.md",
+                "file": "能隙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SiC碳化硅.md",
+                "file": "能隙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SiC碳化硅.md"
+                "file": "能隙.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SiC碳化硅.md"
+                "file": "能隙.md"
               }
             }
           }
@@ -227,8 +227,9 @@
   },
   "active": "5ade82f7b4fa1916",
   "lastOpenFiles": [
-    "IGBT.md",
     "SiC碳化硅.md",
+    "能隙.md",
+    "IGBT.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "markdown語法.md",
     "Pasted image 20240513134905.png",
@@ -262,7 +263,6 @@
     "conflict-files-obsidian-git.md",
     "firstobsidian/電源架構隨手記.md",
     "firstobsidian/卡片盒筆記法.md",
-    "firstobsidian/templates/New note.md",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",

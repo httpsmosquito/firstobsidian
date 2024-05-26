@@ -135,17 +135,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "20240512日記 2.md",
+    "Untitled.md",
+    "電流勾表使用.md",
+    "Shit.md",
+    "測試規格書查詢下載.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "附件圖/baby looney tunes.jpg",
     "/附件圖/baby looney tunes.jpg",
@@ -184,10 +189,6 @@
     "Excalidraw-Obsidian.md",
     "obsidian電腦及手機如何用Github同步.md",
     "Excalidraw",
-    "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
-    "Excalidraw/test.md",
-    "Literature note/Personal Access Token.md",
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note",
     "/Literature note",
     "/Excalidraw"

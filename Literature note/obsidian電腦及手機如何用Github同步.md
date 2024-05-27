@@ -44,4 +44,4 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 
 手機端補充：
 1.若開啟APP時出現自動上傳失敗，輸入Github帳號及密碼/Personal Access Token可解決(20240526)=>重新git clone
-2.重新在iSH進行git clone，若出現
+2.重新在iSH進行git clone，若出現"某某"PATH已存在且不是空的，可用"rm -rf 某某/"，將資料夾全數刪除

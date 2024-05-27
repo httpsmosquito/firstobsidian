@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "橋式整流.md",
+                "file": "Project-related note/電源架構/光耦合器.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "橋式整流.md",
+                "file": "Project-related note/電源架構/光耦合器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "橋式整流.md",
+                "file": "Project-related note/電源架構/光耦合器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "橋式整流.md"
+                "file": "Project-related note/電源架構/光耦合器.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "橋式整流.md"
+                "file": "Project-related note/電源架構/光耦合器.md"
               }
             }
           }
@@ -179,15 +179,23 @@
   },
   "active": "acd707fd147308a3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-27 09.18.11.excalidraw.md",
+    "Project-related note/電源架構/光耦合器.md",
+    "Project-related note/電源架構/判斷MOS好壞.md",
+    "Excalidraw-Obsidian.md",
+    "SiC碳化硅.md",
+    "橋式整流.md",
+    "Untitled.md",
+    "Shit.md",
+    "電流勾表使用.md",
+    "測試規格書查詢下載.md",
+    "20240512日記 2.md",
     "附件圖/Pasted image 20240513165442.png",
     "附件圖/Pasted image 20240513165415.png",
-    "Excalidraw-Obsidian.md",
     "markdown語法.md",
     "IGBT.md",
     "Number Heading.md",
-    "SiC碳化硅.md",
     "上標、下標.md",
-    "橋式整流.md",
     "附件圖/Pasted image 20240513163546.png",
     "附件圖/Pasted image 20240513134905.png",
     "附件圖/Pasted image 20240513134609.png",
@@ -198,24 +206,16 @@
     "附件圖/baby looney tunes.jpg",
     "附件圖",
     "能隙.md",
-    "Project-related note/電源架構/判斷MOS好壞.md",
     "Literature note/Personal Access Token.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
-    "Project-related note/電源架構/光耦合器.md",
     "零件收納.md",
     "20240512日記.md",
     "電源架構隨手記.md",
     "obsidian properties.md",
-    "Excalidraw/test.svg",
     "templates/New note.md",
     "Excalidraw/test.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
-    "Excalidraw/Untitled 1 2024-05-09 10.02.37.excalidraw.md",
-    "卡片盒筆記法.md",
-    "properties.md",
-    "Excalidraw/Drawing 2024-05-09 08.52.29.md",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",

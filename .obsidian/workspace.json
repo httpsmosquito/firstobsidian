@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9913318b68e14fb4",
+        "id": "3c2bc57442df6c39",
         "type": "tabs",
         "children": [
           {
-            "id": "acd707fd147308a3",
+            "id": "bb6b758fd4311e77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acd707fd147308a3",
+  "active": "bb6b758fd4311e77",
   "lastOpenFiles": [
+    "2024-05-27.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
     "Project-related note/電源架構/光耦合器.md",
     "Excalidraw/Drawing 2024-05-27 09.18.11.excalidraw.md",
@@ -207,7 +209,6 @@
     "附件圖/baby looney tunes.jpg",
     "附件圖",
     "能隙.md",
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "零件收納.md",
     "20240512日記.md",
     "電源架構隨手記.md",
@@ -215,7 +216,6 @@
     "templates/New note.md",
     "Excalidraw/test.md",
     "Untitled 1.md",
-    "Excalidraw/Untitled 1 2024-05-09 10.04.19.excalidraw.md",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",

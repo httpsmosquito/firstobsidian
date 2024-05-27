@@ -42,10 +42,6 @@ httpsmosquito為帳號，firstobsidian是剛剛建立的Repository名稱
 5.確認"Git"中已經沒有"git is not ready"的訊息，才是git clone有成功，至Authentication/Commit Author中填寫帳號、密碼(Personal Access Token)、email
 
 
-手機端補充：若
-
-
-
-
-
-
+手機端補充：
+1.若開啟APP時出現自動上傳失敗，輸入Github帳號及密碼/Personal Access Token可解決(20240526)=>重新git clone
+2.重新在iSH進行git clone，若出現

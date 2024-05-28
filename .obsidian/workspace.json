@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "958e53d12ac5270a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SiC碳化硅.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SiC碳化硅.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SiC碳化硅.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SiC碳化硅.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -177,8 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb6b758fd4311e77",
+  "active": "958e53d12ac5270a",
   "lastOpenFiles": [
+    "SiC碳化硅.md",
+    "未命名.md",
     "橋式整流.md",
     "能隙.md",
     "上標、下標.md",
@@ -190,7 +205,6 @@
     "Excalidraw/Drawing 2024-05-27 09.18.11.excalidraw.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "Excalidraw-Obsidian.md",
-    "SiC碳化硅.md",
     "Untitled.md",
     "Shit.md",
     "電流勾表使用.md",
@@ -215,7 +229,6 @@
     "obsidian properties.md",
     "templates/New note.md",
     "Excalidraw/test.md",
-    "Untitled 1.md",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",

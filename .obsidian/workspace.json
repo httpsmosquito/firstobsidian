@@ -173,12 +173,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "958e53d12ac5270a",
+  "active": "cd83252212530c16",
   "lastOpenFiles": [
-    "SiC碳化硅.md",
     "未命名.md",
+    "SiC碳化硅.md",
     "橋式整流.md",
     "能隙.md",
     "上標、下標.md",

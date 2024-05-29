@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
               }
             }
           },
@@ -168,12 +168,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,27 +187,28 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:建立新唯一筆記": false
     }
   },
-  "active": "cd83252212530c16",
+  "active": "958e53d12ac5270a",
   "lastOpenFiles": [
+    "Literature note/Personal Access Token.md",
+    "能隙.md",
+    "橋式整流.md",
+    "上標、下標.md",
+    "電流勾表使用.md",
+    "20240512日記 2.md",
     "未命名.md",
     "SiC碳化硅.md",
-    "橋式整流.md",
-    "能隙.md",
-    "上標、下標.md",
-    "20240512日記 2.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "2024-05-27.md",
-    "Literature note/Personal Access Token.md",
     "Project-related note/電源架構/光耦合器.md",
     "Excalidraw/Drawing 2024-05-27 09.18.11.excalidraw.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "Excalidraw-Obsidian.md",
     "Untitled.md",
     "Shit.md",
-    "電流勾表使用.md",
     "測試規格書查詢下載.md",
     "附件圖/Pasted image 20240513165442.png",
     "附件圖/Pasted image 20240513165415.png",

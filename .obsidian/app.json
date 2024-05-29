@@ -10,5 +10,6 @@
   "attachmentFolderPath": "附件圖",
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Fleet note"
+  "newFileFolderPath": "Fleet note",
+  "strictLineBreaks": true
 }

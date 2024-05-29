@@ -5,7 +5,10 @@
   "rightToLeft": false,
   "tabSize": 3,
   "readableLineLength": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "附件圖"
+  "attachmentFolderPath": "附件圖",
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Fleet note"
 }

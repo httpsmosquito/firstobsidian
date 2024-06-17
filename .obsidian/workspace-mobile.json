@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "測試規格書查詢下載.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "未命名.md",
+            "file": "測試規格書查詢下載.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "未命名.md",
+            "file": "測試規格書查詢下載.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "未命名.md"
+            "file": "測試規格書查詢下載.md"
           }
         }
       }
@@ -149,10 +149,12 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
+    "Fleet note/整理腦袋.md",
+    "未命名.md",
+    "/Fleet note/整理腦袋.md",
     "Untitled.md",
     "Fleet note/未命名.md",
     "Fleet note",
-    "未命名.md",
     "/未命名.md",
     "/Literature note/obsidian電腦及手機如何用Github同步.md",
     "/Fleet note/未命名.md",
@@ -189,8 +191,6 @@
     "Project-related note/電源架構/光耦合器.md",
     "Project-related note/電源架構",
     "Project-related note",
-    "/Project-related note/電源架構/光耦合器.md",
-    "/Project-related note/電源架構/判斷MOS好壞.md",
     "/Project-related note/電源架構",
     "/Project-related note",
     "Excalidraw",

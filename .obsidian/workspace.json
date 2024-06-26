@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/整理腦袋.md",
+                "file": "Fleet note/預計入庫日期已到但還沒庫存.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/整理腦袋.md",
+                "file": "Fleet note/預計入庫日期已到但還沒庫存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/整理腦袋.md",
+                "file": "Fleet note/預計入庫日期已到但還沒庫存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/整理腦袋.md"
+                "file": "Fleet note/預計入庫日期已到但還沒庫存.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/整理腦袋.md"
+                "file": "Fleet note/預計入庫日期已到但還沒庫存.md"
               }
             }
           }
@@ -215,8 +215,8 @@
   },
   "active": "32f425cbf2fe5456",
   "lastOpenFiles": [
-    "Fleet note/未命名.md",
     "Fleet note/整理腦袋.md",
+    "Fleet note/未命名.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
     "未命名",

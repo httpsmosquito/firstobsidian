@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e12dff8ec62ff2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/抑制湧浪電流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/湧浪電流.md",
+                "file": "Fleet note/抑制湧浪電流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/湧浪電流.md",
+                "file": "Fleet note/抑制湧浪電流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/湧浪電流.md"
+                "file": "Fleet note/抑制湧浪電流.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/湧浪電流.md"
+                "file": "Fleet note/抑制湧浪電流.md"
               }
             }
           }
@@ -180,10 +193,11 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "540f87ac92f873c6",
+  "active": "e12dff8ec62ff2c7",
   "lastOpenFiles": [
-    "Fleet note/整理腦袋.md",
     "Fleet note/湧浪電流.md",
+    "Fleet note/抑制湧浪電流.md",
+    "Fleet note/整理腦袋.md",
     "Fleet note/預計入庫日期已到但還沒庫存.md",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513134443.png",

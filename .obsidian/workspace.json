@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "831a831c2277ae74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/箝位電路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+                "file": "Fleet note/箝位電路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+                "file": "Fleet note/箝位電路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md"
+                "file": "Fleet note/箝位電路.md"
               }
             }
           },
@@ -180,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md"
+                "file": "Fleet note/箝位電路.md"
               }
             }
           }
@@ -205,10 +217,11 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "cc3634e7c4cd13d3",
+  "active": "831a831c2277ae74",
   "lastOpenFiles": [
-    "Fleet note/抑制湧浪電流.md",
     "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+    "Fleet note/箝位電路.md",
+    "Fleet note/抑制湧浪電流.md",
     "Fleet note/湧浪電流.md",
     "Fleet note/整理腦袋.md",
     "Fleet note/預計入庫日期已到但還沒庫存.md",
@@ -244,7 +257,6 @@
     "附件圖/Pasted image 20240510142429.png",
     "附件圖/baby looney tunes.jpg",
     "附件圖",
-    "零件收納.md",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",

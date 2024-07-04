@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/湧浪電流測試.md",
+                "file": "Fleet note/湧浪電流.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/湧浪電流測試.md",
+                "file": "Fleet note/湧浪電流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/湧浪電流測試.md",
+                "file": "Fleet note/湧浪電流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/湧浪電流測試.md"
+                "file": "Fleet note/湧浪電流.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/湧浪電流測試.md"
+                "file": "Fleet note/湧浪電流.md"
               }
             }
           }
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +183,7 @@
   "active": "540f87ac92f873c6",
   "lastOpenFiles": [
     "Fleet note/整理腦袋.md",
-    "Fleet note/湧浪電流測試.md",
+    "Fleet note/湧浪電流.md",
     "Fleet note/預計入庫日期已到但還沒庫存.md",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513134443.png",

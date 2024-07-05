@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "測試規格書查詢下載.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "測試規格書查詢下載.md",
+            "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "測試規格書查詢下載.md",
+            "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "測試規格書查詢下載.md"
+            "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
           }
         }
       }
@@ -149,8 +149,8 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
-    "Fleet note/預計入庫日期已到但還沒庫存.md",
     "測試規格書查詢下載.md",
+    "Fleet note/預計入庫日期已到但還沒庫存.md",
     "Fleet note/整理腦袋.md",
     "未命名.md",
     "/Fleet note/整理腦袋.md",

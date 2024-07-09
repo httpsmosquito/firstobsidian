@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "測試規格書查詢下載.md",
+                "file": "Fleet note/emi.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "測試規格書查詢下載.md",
+            "file": "Fleet note/emi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "測試規格書查詢下載.md",
+            "file": "Fleet note/emi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "測試規格書查詢下載.md"
+            "file": "Fleet note/emi.md"
           }
         }
       }
@@ -149,8 +149,18 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
-    "Fleet note/預計入庫日期已到但還沒庫存.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Fleet note/emi.md",
+    "Fleet note/湧浪電流.md",
+    "Fleet note/抑制湧浪電流.md",
+    "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+    "Fleet note/箝位電路.md",
+    "/Fleet note/湧浪電流.md",
+    "/Fleet note/抑制湧浪電流.md",
+    "/Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+    "/Fleet note/箝位電路.md",
     "測試規格書查詢下載.md",
+    "Fleet note/預計入庫日期已到但還沒庫存.md",
     "Fleet note/整理腦袋.md",
     "未命名.md",
     "/Fleet note/整理腦袋.md",
@@ -169,7 +179,6 @@
     "附件圖/baby looney tunes.jpg",
     "/附件圖/baby looney tunes.jpg",
     "上標、下標.md",
-    "SIC碳化硅.md",
     "附件圖/Pasted image 20240513165442.png",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513134609.png",
@@ -179,16 +188,7 @@
     "附件圖/Pasted image 20240513134443.png",
     "附件圖/Pasted image 20240513165415.png",
     "附件圖",
-    "IGBT.md",
-    "橋式整流.md",
-    "能隙.md",
-    "/能隙.md",
-    "/橋式整流.md",
-    "/上標、下標.md",
-    "/SIC碳化硅.md",
-    "/IGBT.md",
     "/附件圖",
-    "零件收納.md",
     "Project-related note/電源架構",
     "Project-related note",
     "/Project-related note/電源架構",

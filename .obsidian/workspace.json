@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/TVS.md",
+                "file": "Fleet note/過電壓保護over-voltage protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/TVS.md",
+                "file": "Fleet note/過電壓保護over-voltage protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/TVS.md",
+                "file": "Fleet note/過電壓保護over-voltage protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/TVS.md"
+                "file": "Fleet note/過電壓保護over-voltage protection.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/TVS.md"
+                "file": "Fleet note/過電壓保護over-voltage protection.md"
               }
             }
           }
@@ -243,9 +243,10 @@
   },
   "active": "6cc4a6f48a10b587",
   "lastOpenFiles": [
+    "Fleet note/TVS.md",
+    "附件圖/橋式整流器電路分析.png",
     "附件圖/TVS Diode.png",
     "附件圖/Pasted image 20240710113955.png",
-    "Fleet note/TVS.md",
     "Fleet note/過電壓保護over-voltage protection.md",
     "Fleet note/SCR.md",
     "Fleet note/未命名 1.md",
@@ -258,7 +259,6 @@
     "附件圖/Pasted image 20240513133328.png",
     "附件圖/IGBT.png",
     "附件圖/開關元件比較.png",
-    "附件圖/橋式整流器電路分析.png",
     "未命名",
     "SiC碳化硅.md",
     "測試規格書查詢下載.md",

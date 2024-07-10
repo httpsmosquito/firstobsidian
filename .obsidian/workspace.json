@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/過電壓保護 (Over Voltage Protection).md",
+                "file": "Fleet note/SCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/過電壓保護 (Over Voltage Protection).md",
+                "file": "Fleet note/SCR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "384f8d45e6eabb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/過電壓保護over-voltage protection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cc4a6f48a10b587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/TVS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/過電壓保護 (Over Voltage Protection).md",
+                "file": "Fleet note/TVS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/過電壓保護 (Over Voltage Protection).md",
+                "file": "Fleet note/TVS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/過電壓保護 (Over Voltage Protection).md"
+                "file": "Fleet note/TVS.md"
               }
             }
           },
@@ -192,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/過電壓保護 (Over Voltage Protection).md"
+                "file": "Fleet note/TVS.md"
               }
             }
           }
@@ -201,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,45 +241,44 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "831a831c2277ae74",
+  "active": "6cc4a6f48a10b587",
   "lastOpenFiles": [
-    "附件圖/Pasted image 20240710102805.png",
-    "Fleet note/抑制湧浪電流.md",
-    "Fleet note/湧浪電流.md",
-    "Fleet note/過電壓保護 (Over Voltage Protection).md",
-    "附件圖/Pasted image 20240710101321.png",
-    "附件圖/Pasted image 20240710101315.png",
-    "附件圖/Pasted image 20240710092525.png",
-    "附件圖/Pasted image 20240710092214.png",
+    "附件圖/TVS Diode.png",
+    "附件圖/Pasted image 20240710113955.png",
+    "Fleet note/TVS.md",
+    "Fleet note/過電壓保護over-voltage protection.md",
+    "Fleet note/SCR.md",
+    "Fleet note/未命名 1.md",
     "Fleet note/emi.md",
-    "Fleet note/箝位電路.md",
+    "附件圖/Pasted image 20240513134443.png",
+    "附件圖/光耦合器.png",
+    "Fleet note/抑制湧浪電流.md",
+    "附件圖/baby looney tunes.jpg",
+    "附件圖/Pasted image 20240513121416.png",
+    "附件圖/Pasted image 20240513133328.png",
+    "附件圖/IGBT.png",
+    "附件圖/開關元件比較.png",
+    "附件圖/橋式整流器電路分析.png",
+    "未命名",
+    "SiC碳化硅.md",
+    "測試規格書查詢下載.md",
     "20240512日記 2.md",
+    "電流勾表使用.md",
+    "Fleet note/湧浪電流.md",
+    "Fleet note/箝位電路.md",
     "上標、下標.md",
     "橋式整流.md",
     "Fleet note/預計入庫日期已到但還沒庫存.md",
     "Fleet note/整理腦袋.md",
-    "附件圖/Pasted image 20240513121416.png",
-    "附件圖/Pasted image 20240513134443.png",
-    "附件圖/Pasted image 20240513134905.png",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",
-    "未命名",
     "能隙.md",
-    "電流勾表使用.md",
     "未命名.md",
-    "SiC碳化硅.md",
     "2024-05-27.md",
     "Project-related note/電源架構/光耦合器.md",
     "Excalidraw/Drawing 2024-05-27 09.18.11.excalidraw.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "Excalidraw-Obsidian.md",
-    "Untitled.md",
-    "Shit.md",
-    "測試規格書查詢下載.md",
-    "附件圖/Pasted image 20240513165442.png",
-    "附件圖/Pasted image 20240513165415.png",
-    "markdown語法.md",
-    "附件圖/Pasted image 20240513163546.png",
     "附件圖",
     "firstobsidian/templates",
     "firstobsidian",

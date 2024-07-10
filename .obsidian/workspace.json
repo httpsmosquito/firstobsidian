@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +218,9 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "8517b29220777da9",
+  "active": "831a831c2277ae74",
   "lastOpenFiles": [
+    "附件圖/Pasted image 20240710102805.png",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/湧浪電流.md",
     "Fleet note/過電壓保護 (Over Voltage Protection).md",

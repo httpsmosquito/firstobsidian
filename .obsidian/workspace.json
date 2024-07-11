@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "284f9778aae9d935",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,7 +263,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "91f12c94fa3f806a",
+  "active": "284f9778aae9d935",
   "lastOpenFiles": [
     "Fleet note/輻射性EMI.md",
     "Fleet note/傳導性EMI.md",

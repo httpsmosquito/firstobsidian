@@ -2,7 +2,8 @@
 created: 2024-07-10T11:16:00
 Source URL: https://zh.wikipedia.org/wiki/%E6%99%B6%E9%96%98%E7%AE%A1
 tags:
-  - 電力電子
+  - SCR
+Topics:
   - 電子元件
 ---
 ![[單向晶閘管SCR.png]]

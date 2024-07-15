@@ -7,7 +7,7 @@
   "readableLineLength": true,
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "附件圖",
+  "attachmentFolderPath": "附件",
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "Fleet note",

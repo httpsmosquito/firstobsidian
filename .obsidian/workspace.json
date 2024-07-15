@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0f2f2f4d00635a",
+        "id": "110bdd7d54a9c62b",
         "type": "tabs",
         "children": [
           {
-            "id": "5233bada319a70d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleet note/EMI(Electromagnetic Interference, EMI).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "284f9778aae9d935",
+            "id": "c8055eba13ed8869",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +20,7 @@
             }
           },
           {
-            "id": "cb1c924ca3cb75e5",
+            "id": "6e0338629a7a051d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,31 +28,8 @@
                 "file": "Excalidraw/高通濾波器.md"
               }
             }
-          },
-          {
-            "id": "be3e47cbaf5e3751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleet note/輻射性EMI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa63504fadf43622",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/高通濾波器.md",
+                "file": "Fleet note/高通濾波器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/高通濾波器.md",
+                "file": "Fleet note/高通濾波器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/高通濾波器.md"
+                "file": "Fleet note/高通濾波器.md"
               }
             }
           },
@@ -200,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/高通濾波器.md"
+                "file": "Fleet note/高通濾波器.md"
               }
             }
           }
@@ -225,16 +190,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "c8055eba13ed8869",
   "lastOpenFiles": [
-    "Fleet note/高通濾波器.md",
     "Excalidraw/高通濾波器.md",
+    "Fleet note/高通濾波器.md",
+    "Fleet note/輻射性EMI.md",
     "Excalidraw/高通濾波器.svg",
     "Fleet note/EMI(Electromagnetic Interference, EMI).md",
     "Fleet note/Untitled.md",
     "Excalidraw/123.md",
     "Fleet note/202407150941.md",
-    "Fleet note/輻射性EMI.md",
     "Excalidraw/Drawing 2024-07-15 09.34.06.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-12 14.38.22.excalidraw.svg",
     "Fleet note/TVS.md",

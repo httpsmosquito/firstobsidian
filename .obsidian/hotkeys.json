@@ -17,5 +17,13 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-excalidraw-plugin:open-image-excalidraw-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

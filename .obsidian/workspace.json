@@ -11,11 +11,9 @@
             "id": "c8055eba13ed8869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Fleet note/SCR.md",
-                "mode": "source",
-                "source": false
+                "file": "Fleet note/SCR.md"
               }
             }
           },
@@ -35,9 +33,31 @@
             "id": "685f04d333082519",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fleet note/SCR.md"
+              }
+            }
+          },
+          {
+            "id": "b7a4be134879119b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/SCR.md",
+                "file": "templates/test note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85363f206d8b7df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Fleet note/Untitled.md"
               }
             }
           },
@@ -204,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Fleet note/Untitled.md"
               }
             }
           }
@@ -226,16 +246,19 @@
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "844a3f91088b7206",
+  "active": "85363f206d8b7df8",
   "lastOpenFiles": [
+    "Fleet note/Untitled 1.md",
+    "templates/test note.md",
+    "Fleet note/SCR.md",
+    "templates/New Note.md",
     "Fleet note/Untitled.md",
     "Fleet note/Untitled.svg",
-    "templates/New Note.md",
     "Untitled",
-    "Fleet note/SCR.md",
     "templates/123.svg",
     "Excalidraw/dtat.svg",
     "Excalidraw/dtat.md",
@@ -264,7 +287,6 @@
     "Fleet note/電磁干擾.md",
     "IGBT.md",
     "零件收納.md",
-    "能隙.md",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513133328.png",
     "未命名",

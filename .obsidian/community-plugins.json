@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "number-headings-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-hider"
 ]

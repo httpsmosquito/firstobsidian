@@ -11,11 +11,29 @@
             "id": "c8055eba13ed8869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Fleet note/高通濾波器.md",
-                "mode": "source",
-                "source": false
+                "file": "Fleet note/SCR.md"
+              }
+            }
+          },
+          {
+            "id": "7798e87577c610cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/高通濾波器.md"
+              }
+            }
+          },
+          {
+            "id": "685f04d333082519",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fleet note/SCR.md"
               }
             }
           },
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/高通濾波器.md",
+                "file": "Fleet note/SCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/高通濾波器.md",
+                "file": "Fleet note/SCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/高通濾波器.md"
+                "file": "Fleet note/SCR.md"
               }
             }
           },
@@ -165,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/高通濾波器.md"
+                "file": "Fleet note/SCR.md"
               }
             }
           }
@@ -192,8 +210,16 @@
   },
   "active": "c8055eba13ed8869",
   "lastOpenFiles": [
+    "Fleet note/SCR.svg",
+    "Fleet note/SCR.md",
     "Excalidraw/高通濾波器.md",
     "Fleet note/高通濾波器.md",
+    "Fleet note/emi.md",
+    "Fleet note/過電壓保護over-voltage protection.md",
+    "Fleet note/預計入庫日期已到但還沒庫存.md",
+    "Fleet note/湧浪電流.md",
+    "Fleet note/抑制湧浪電流.md",
+    "Excalidraw/Drawing 2024-07-15 11.30.14.excalidraw.md",
     "Fleet note/輻射性EMI.md",
     "Excalidraw/高通濾波器.svg",
     "Fleet note/EMI(Electromagnetic Interference, EMI).md",
@@ -203,30 +229,22 @@
     "Excalidraw/Drawing 2024-07-15 09.34.06.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-12 14.38.22.excalidraw.svg",
     "Fleet note/TVS.md",
-    "Fleet note/SCR.md",
     "Excalidraw/Drawing 2024-07-12 14.38.22.excalidraw.md",
     "Fleet note/消除EMI.md",
     "Fleet note/傳導性EMI.md",
     "Fleet note/電磁干擾.md",
-    "Fleet note/湧浪電流.md",
-    "Fleet note/抑制湧浪電流.md",
-    "Fleet note/emi.md",
     "IGBT.md",
     "零件收納.md",
     "能隙.md",
     "橋式整流.md",
     "上標、下標.md",
-    "Fleet note/預計入庫日期已到但還沒庫存.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
-    "Project-related note/電源架構/光耦合器.md",
-    "SiC碳化硅.md",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513133328.png",
     "附件圖/Pasted image 20240513134443.png",
     "附件圖/橋式整流器電路分析.png",
     "附件圖/TVS Diode.png",
     "附件圖/Pasted image 20240710113955.png",
-    "附件圖/光耦合器.png",
     "未命名",
     "附件圖",
     "firstobsidian/templates",

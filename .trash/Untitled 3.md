@@ -2,24 +2,15 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-  - SCR
-created: 2024-07-10T11:16:00.000Z
-Source URL: https://zh.wikipedia.org/wiki/%E6%99%B6%E9%96%98%E7%AE%A1
-Topics:
-  - 電子元件
+excalidraw-open-md: true
 ---
+# [[Untitled]]
 
-![[單向晶閘管SCR.png]]
-- 晶閘管有時單指SCR，有時只具有四層以上PN交錯的半導體(單向稱SCR，雙向稱TRIAC)
--  單向晶閘管：陽極A（Anode），陰極C（Cathode）和控制極G（Gate），AC端加正電壓不導通，在G及再加上正電壓(相較C極而言)才導通，且導通後去掉G極電壓依然保持導通
-- 雙向晶閘管：可等校為兩個單項晶閘管反向並聯，正負雙向都可以控制，所以除G極外其餘兩個電極改稱MT1、MT2或T1、T2，當G與MT1間訊號時，MT2與MT1間就可導通![[Pasted image 20240710101321.png|100]]![[雙向晶閘管.png|200]]
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
+![[title.svg]]
 # Text Elements
+this is a
+untitled note ^tGDIy3ae
+
 %%
 # Drawing
 ```json
@@ -29,34 +20,41 @@ Topics:
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
 	"elements": [
 		{
-			"type": "rectangle",
-			"version": 9,
-			"versionNonce": 1365363695,
-			"index": "a0",
-			"isDeleted": true,
-			"id": "6JsbhK48T-uMEmXNuhqoo",
+			"type": "text",
+			"version": 55,
+			"versionNonce": 836412481,
+			"index": "a1",
+			"isDeleted": false,
+			"id": "tGDIy3ae",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -160,
-			"y": -114.23748016357422,
+			"x": -134.19998168945312,
+			"y": -189.75622940063477,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 242.4000244140625,
-			"height": 164,
-			"seed": 630878133,
+			"width": 127.91987609863281,
+			"height": 50,
+			"seed": 916958479,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
+			"roundness": null,
 			"boundElements": [],
-			"updated": 1721022194232,
+			"updated": 1721021558814,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "this is a\nuntitled note",
+			"rawText": "this is a\nuntitled note",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "this is a\nuntitled note",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -74,8 +72,8 @@ Topics:
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 208.29998779296875,
-		"scrollY": 216.7187271118164,
+		"scrollX": 239.74004364013672,
+		"scrollY": 349.23747634887695,
 		"zoom": {
 			"value": 2
 		},

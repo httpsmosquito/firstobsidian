@@ -14,7 +14,7 @@ tags: [excalidraw]
 123 ^5c16yn2V
 
 # Element Links
-shZojMal: [[Excalidraw/高通濾波器.md#高通濾波器]]
+shZojMal: [[dtat#高通濾波器]]
 
 # Embedded files
 2395cf1ac13a22868e618b9b8ac0d498f54d43c4: $$\color{blue}$$

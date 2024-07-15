@@ -6,7 +6,8 @@ excalidraw-open-md: true
 ---
 # [[{{title}}]]
 
-![[title.svg]]
+![[{{title}}.svg]]
+
 # Text Elements
 %%
 # Drawing
@@ -17,31 +18,31 @@ excalidraw-open-md: true
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
 	"elements": [
 		{
-			"id": "bihStMa0UC4ofTwY0QBRJ",
 			"type": "rectangle",
-			"x": -180.79998779296875,
-			"y": -249.43749237060547,
-			"width": 220,
-			"height": 212,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1877967535,
+			"index": "a0",
+			"isDeleted": false,
+			"id": "bihStMa0UC4ofTwY0QBRJ",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -180.79998779296875,
+			"y": -249.43749237060547,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 220,
+			"height": 212,
+			"seed": 965728481,
 			"groupIds": [],
 			"frameId": null,
-			"index": "a0",
 			"roundness": {
 				"type": 3
 			},
-			"seed": 965728481,
-			"version": 10,
-			"versionNonce": 1877967535,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1721017445826,
 			"link": null,
 			"locked": false
@@ -62,10 +63,10 @@ excalidraw-open-md: true
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 339,
-		"scrollY": 368.9624938964844,
+		"scrollX": 240.29998779296875,
+		"scrollY": 327.91873931884766,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -32,51 +32,43 @@
             }
           },
           {
-            "id": "7798e87577c610cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/高通濾波器.md"
-              }
-            }
-          },
-          {
             "id": "685f04d333082519",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fleet note/SCR.md"
-              }
-            }
-          },
-          {
-            "id": "6e0338629a7a051d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/newnote.md",
+                "file": "Fleet note/SCR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "751ca648385187ae",
+            "id": "01472dbc2a0133ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/Untitled.md",
+                "file": "templates/New Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "844a3f91088b7206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/New Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/Untitled.md",
+                "file": "templates/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/Untitled.md",
+                "file": "templates/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/Untitled.md"
+                "file": "templates/New Note.md"
               }
             }
           },
@@ -212,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/Untitled.md"
+                "file": "templates/New Note.md"
               }
             }
           }
@@ -237,18 +229,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "751ca648385187ae",
+  "active": "844a3f91088b7206",
   "lastOpenFiles": [
-    "templates/newnote.md",
     "Fleet note/Untitled.md",
+    "Fleet note/Untitled.svg",
+    "templates/New Note.md",
+    "Untitled",
+    "Fleet note/SCR.md",
+    "templates/123.svg",
+    "Excalidraw/dtat.svg",
+    "Excalidraw/dtat.md",
     "templates",
-    "Excalidraw/高通濾波器.md",
     "Excalidraw/Drawing 2024-07-15 11.30.14.excalidraw.md",
     "Excalidraw/Drawing 2024-07-15 11.30.14.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-15 12.16.55.excalidraw.md",
     "Excalidraw/Drawing 2024-07-15 12.16.55.excalidraw.svg",
     "Fleet note/高通濾波器.md",
-    "Fleet note/SCR.md",
     "Fleet note/SCR.svg",
     "Fleet note/emi.md",
     "Fleet note/過電壓保護over-voltage protection.md",
@@ -256,7 +252,6 @@
     "Fleet note/湧浪電流.md",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/輻射性EMI.md",
-    "Excalidraw/高通濾波器.svg",
     "Fleet note/EMI(Electromagnetic Interference, EMI).md",
     "Excalidraw/123.md",
     "Fleet note/202407150941.md",
@@ -270,11 +265,8 @@
     "IGBT.md",
     "零件收納.md",
     "能隙.md",
-    "橋式整流.md",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513133328.png",
-    "附件圖/Pasted image 20240513134443.png",
-    "附件圖/橋式整流器電路分析.png",
     "未命名",
     "附件圖",
     "firstobsidian/templates",
@@ -282,7 +274,6 @@
     "templates",
     "Project-related note/電源架構",
     "Project-related note/韓文",
-    "Project-related note",
-    "Permanent note"
+    "Project-related note"
   ]
 }

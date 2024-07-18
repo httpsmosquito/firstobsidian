@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb6b758fd4311e77",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "958e53d12ac5270a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/TVS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f425cbf2fe5456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleet note/預計入庫日期已到但還沒庫存.md",
+                "file": "Fleet note/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/TVS.md",
+                "file": "Fleet note/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/TVS.md",
+                "file": "Fleet note/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/TVS.md"
+                "file": "Fleet note/Untitled 1.md"
               }
             }
           },
@@ -176,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/TVS.md"
+                "file": "Fleet note/Untitled 1.md"
               }
             }
           }
@@ -199,11 +179,15 @@
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "958e53d12ac5270a",
   "lastOpenFiles": [
+    "Fleet note/Excalidraw template.md",
+    "Fleet note/Untitled 1.md",
+    "Fleet note/TVS.md",
     "Fleet note/SCR.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Fleet note/過電壓保護over-voltage protection.md",
@@ -226,9 +210,6 @@
     "Fleet note/傳導性EMI.md",
     "Fleet note/emi.md",
     "Fleet note/Untitled.md",
-    "Fleet note/Untitled 1.md",
-    "Fleet note/TVS.md",
-    "Fleet note/Excalidraw template.md",
     "Fleet note/EMI(Electromagnetic Interference, EMI).md",
     "Excalidraw/Drawing 2024-07-15 16.46.16.md",
     "Excalidraw",

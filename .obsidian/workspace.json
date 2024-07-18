@@ -4,69 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "110bdd7d54a9c62b",
+        "id": "3c2bc57442df6c39",
         "type": "tabs",
         "children": [
           {
-            "id": "c8055eba13ed8869",
+            "id": "bb6b758fd4311e77",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fleet note/SCR.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "2ed398a90775650b",
+            "id": "958e53d12ac5270a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/高通濾波器.md",
+                "file": "Fleet note/TVS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "685f04d333082519",
+            "id": "32f425cbf2fe5456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/高通濾波器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d085f0a600b486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "橋式整流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "392e1ac77446432f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleet note/Excalidraw template.md",
+                "file": "Fleet note/預計入庫日期已到但還沒庫存.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,11 +69,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -132,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/Excalidraw template.md",
+                "file": "Fleet note/TVS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/Excalidraw template.md",
+                "file": "Fleet note/TVS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/Excalidraw template.md"
+                "file": "Fleet note/TVS.md"
               }
             }
           },
@@ -202,79 +176,79 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/Excalidraw template.md"
+                "file": "Fleet note/TVS.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 360.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "workspaces:管理工作區配置": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "392e1ac77446432f",
+  "active": "958e53d12ac5270a",
   "lastOpenFiles": [
-    "templates/---test note.md",
-    "Fleet note/Excalidraw template.md",
-    "橋式整流.md",
-    "templates/New Note.md",
-    "Excalidraw/Drawing 2024-07-15 16.46.16.md",
-    "Fleet note/高通濾波器.md",
-    "Excalidraw",
     "Fleet note/SCR.md",
-    "scripts",
-    "Fleet note/Untitled.md",
-    "Fleet note/Untitled.svg",
-    "Fleet note/Untitled 1.md",
-    "Fleet note/輻射性EMI.md",
-    "Fleet note/傳導性EMI.md",
-    "20240512日記.md",
-    "20240512日記 2.md",
-    "上標、下標.md",
-    "IGBT.md",
-    "Number Heading.md",
-    "Excalidraw-Obsidian.md",
-    "卡片盒筆記法.md",
-    "markdown語法.md",
-    "Untitled",
-    "templates/123.svg",
-    "Excalidraw/dtat.svg",
-    "Excalidraw/dtat.md",
-    "templates",
-    "Excalidraw/Drawing 2024-07-15 11.30.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-15 11.30.14.excalidraw.svg",
-    "Excalidraw/Drawing 2024-07-15 12.16.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-15 12.16.55.excalidraw.svg",
-    "Fleet note/SCR.svg",
-    "Fleet note/emi.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Fleet note/過電壓保護over-voltage protection.md",
+    "Fleet note/輻射性EMI.md",
     "Fleet note/預計入庫日期已到但還沒庫存.md",
+    "附件圖/雙向晶閘管.png",
+    "附件圖/開關元件比較.png",
+    "附件圖/橋式整流器電路分析.png",
+    "附件圖/橋式整流器內部電路.png",
+    "附件圖/橋式整流器.png",
+    "附件圖/單向晶閘管SCR.png",
+    "附件圖/光耦合器.png",
+    "附件圖/TVS Diode.png",
+    "附件圖/Pasted image 20240710101315.png",
+    "附件圖/IGBT.png",
+    "Fleet note/高通濾波器.md",
+    "Fleet note/電磁干擾.md",
     "Fleet note/湧浪電流.md",
-    "Excalidraw/Drawing 2024-07-15 09.34.06.excalidraw.svg",
-    "Excalidraw/Drawing 2024-07-12 14.38.22.excalidraw.svg",
-    "附件圖/Pasted image 20240513121416.png",
-    "附件圖/Pasted image 20240513133328.png",
+    "Fleet note/抑制湧浪電流.md",
+    "Fleet note/傳導性EMI.md",
+    "Fleet note/emi.md",
+    "Fleet note/Untitled.md",
+    "Fleet note/Untitled 1.md",
+    "Fleet note/TVS.md",
+    "Fleet note/Excalidraw template.md",
+    "Fleet note/EMI(Electromagnetic Interference, EMI).md",
+    "Excalidraw/Drawing 2024-07-15 16.46.16.md",
+    "Excalidraw",
+    "Fleet note/整理腦袋.md",
+    "Fleet note/未命名.md",
+    "Literature note/Personal Access Token.md",
+    "未命名",
+    "能隙.md",
+    "橋式整流.md",
+    "上標、下標.md",
+    "電流勾表使用.md",
+    "20240512日記 2.md",
+    "未命名.md",
     "附件圖",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",
     "Project-related note/電源架構",
-    "Project-related note/韓文"
+    "Project-related note/韓文",
+    "Project-related note",
+    "Permanent note"
   ]
 }

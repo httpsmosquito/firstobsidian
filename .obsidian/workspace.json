@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/Untitled 1.md",
+                "file": "Fleet note/Excalidraw template.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/Untitled 1.md",
+                "file": "Fleet note/Excalidraw template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/Untitled 1.md",
+                "file": "Fleet note/Excalidraw template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/Untitled 1.md"
+                "file": "Fleet note/Excalidraw template.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/Untitled 1.md"
+                "file": "Fleet note/Excalidraw template.md"
               }
             }
           }
@@ -185,8 +184,8 @@
   },
   "active": "958e53d12ac5270a",
   "lastOpenFiles": [
-    "Fleet note/Excalidraw template.md",
     "Fleet note/Untitled 1.md",
+    "Fleet note/Excalidraw template.md",
     "Fleet note/TVS.md",
     "Fleet note/SCR.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",

@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16ebcb22ccfacbd3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4352e9247a7901fe",
+  "active": "16ebcb22ccfacbd3",
   "lastOpenFiles": [
     "Fleet note/Untitled.md",
     "Fleet note/Test Note.md",

@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "16ebcb22ccfacbd3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +195,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16ebcb22ccfacbd3",
+  "active": "4352e9247a7901fe",
   "lastOpenFiles": [
+    "SIC碳化硅.md",
     "Fleet note/Untitled.md",
     "Fleet note/Test Note.md",
     "templates",
@@ -246,7 +237,6 @@
     "能隙.md",
     "橋式整流.md",
     "上標、下標.md",
-    "電流勾表使用.md",
     "附件圖",
     "firstobsidian/templates",
     "firstobsidian",

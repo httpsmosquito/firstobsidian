@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/Test Note.md",
+                "file": "Fleet note/excalidrawTest.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test",
+                "query": "Ei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/Test Note.md",
+                "file": "Fleet note/excalidrawTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/Test Note.md",
+                "file": "Fleet note/excalidrawTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/Test Note.md"
+                "file": "Fleet note/excalidrawTest.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/Test Note.md"
+                "file": "Fleet note/excalidrawTest.md"
               }
             }
           }
@@ -197,9 +198,9 @@
   },
   "active": "4352e9247a7901fe",
   "lastOpenFiles": [
+    "Fleet note/Test Note.md",
     "SIC碳化硅.md",
     "Fleet note/Untitled.md",
-    "Fleet note/Test Note.md",
     "templates",
     "scripts",
     "Fleet note/excalidrawTest.md",

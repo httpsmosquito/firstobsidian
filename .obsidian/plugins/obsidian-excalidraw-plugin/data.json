@@ -78,7 +78,7 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
-  "fadeOutExcalidrawMarkup": false,
+  "fadeOutExcalidrawMarkup": true,
   "loadPropertySuggestions": true,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",

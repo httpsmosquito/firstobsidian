@@ -23,9 +23,11 @@
             "id": "8ce92b9b0139bf50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fleet note/橋式整流.md"
+                "file": "templates/Excalidraw.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/橋式整流.md",
+                "file": "templates/Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/橋式整流.md",
+                "file": "templates/Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/橋式整流.md"
+                "file": "templates/Excalidraw.md"
               }
             }
           },
@@ -166,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/橋式整流.md"
+                "file": "templates/Excalidraw.md"
               }
             }
           }
@@ -195,10 +197,10 @@
   },
   "active": "8ce92b9b0139bf50",
   "lastOpenFiles": [
-    "Fleet note/橋式整流.svg",
-    "templates/Excalidraw existing.md",
+    "templates/Excalidraw-convert-ExistingFile.md",
     "templates/Excalidraw.md",
     "Fleet note/橋式整流.md",
+    "Fleet note/橋式整流.svg",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/AA.md",
     "Fleet note/AA.svg",

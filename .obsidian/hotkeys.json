@@ -18,20 +18,15 @@
       "key": "P"
     }
   ],
-  "obsidian-excalidraw-plugin:open-image-excalidraw-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+  "editor:toggle-source": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "E"
     }
-  ]
+  ],
+  "editor:save-file": [],
+  "markdown:toggle-preview": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": []
 }

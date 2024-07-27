@@ -11,8 +11,10 @@
             "id": "4352e9247a7901fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "templates/Drawing 2024-07-27 15.18.28.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Drawing 2024-07-27 15.18.28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Drawing 2024-07-27 15.18.28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Drawing 2024-07-27 15.18.28.md"
+              }
             }
           },
           {
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "templates/Drawing 2024-07-27 15.18.28.md"
+              }
             }
           }
         ],
@@ -174,6 +182,7 @@
   },
   "active": "4352e9247a7901fe",
   "lastOpenFiles": [
+    "templates/Drawing 2024-07-27 15.18.28.md",
     "Excalidraw/Drawing 2024-07-15 16.46.16.md",
     "Fleet note/excalidrawTest.md",
     "Fleet note/Excalidraw template.md",
@@ -213,7 +222,6 @@
     "未命名",
     "能隙.md",
     "橋式整流.md",
-    "上標、下標.md",
     "附件圖",
     "firstobsidian/templates",
     "firstobsidian",

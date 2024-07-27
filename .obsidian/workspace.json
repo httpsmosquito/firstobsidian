@@ -11,8 +11,12 @@
             "id": "44f39041b4a06f80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Excalidraw Templater.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Excalidraw Templater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Excalidraw Templater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Excalidraw Templater.md"
+              }
             }
           },
           {
@@ -146,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "templates/Excalidraw Templater.md"
+              }
             }
           }
         ],
@@ -175,6 +185,7 @@
   "active": "44f39041b4a06f80",
   "lastOpenFiles": [
     "templates/Excalidraw.md",
+    "templates/Excalidraw Templater.md",
     "Fleet note/NOTEA.md",
     "Fleet note/Untitled.svg",
     "Fleet note/Untitled.md",
@@ -211,7 +222,6 @@
     "Fleet note/TVS.md",
     "Fleet note/過電壓保護over-voltage protection.md",
     "Fleet note/輻射性EMI.md",
-    "Fleet note/預計入庫日期已到但還沒庫存.md",
     "附件圖/雙向晶閘管.png",
     "附件圖/開關元件比較.png",
     "附件圖/橋式整流器電路分析.png",

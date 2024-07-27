@@ -11,9 +11,11 @@
             "id": "4352e9247a7901fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "templates/Drawing 2024-07-27 15.18.28.md"
+                "file": "templates/New Note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Drawing 2024-07-27 15.18.28.md",
+                "file": "templates/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Drawing 2024-07-27 15.18.28.md",
+                "file": "templates/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Drawing 2024-07-27 15.18.28.md"
+                "file": "templates/New Note.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Drawing 2024-07-27 15.18.28.md"
+                "file": "templates/New Note.md"
               }
             }
           }
@@ -182,7 +184,7 @@
   },
   "active": "4352e9247a7901fe",
   "lastOpenFiles": [
-    "templates/Drawing 2024-07-27 15.18.28.md",
+    "templates/New Note.md",
     "Excalidraw/Drawing 2024-07-15 16.46.16.md",
     "Fleet note/excalidrawTest.md",
     "Fleet note/Excalidraw template.md",

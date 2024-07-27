@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/new note.md",
+                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/new note.md",
+                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/new note.md",
+                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/new note.md"
+                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/new note.md"
+                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md"
               }
             }
           }
@@ -184,8 +184,11 @@
   },
   "active": "4352e9247a7901fe",
   "lastOpenFiles": [
-    "Excalidraw/new note.md",
+    "Excalidraw/Drawing 2024-07-27 16.19.20.md",
     "Excalidraw",
+    "Excalidraw/Drawing 2024-07-27 16.15.40.md",
+    "Excalidraw/Drawing 2024-07-27 16.15.09.md",
+    "Excalidraw/new note.md",
     "Fleet note/Test Note.md",
     "Fleet note/Untitled.md",
     "templates/New Note.md",
@@ -220,9 +223,6 @@
     "Fleet note/湧浪電流.md",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/傳導性EMI.md",
-    "Fleet note/emi.md",
-    "Fleet note/EMI(Electromagnetic Interference, EMI).md",
-    "Fleet note/整理腦袋.md",
     "未命名",
     "附件圖",
     "firstobsidian/templates",

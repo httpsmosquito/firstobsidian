@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Excalidraw Templater.md",
+                "file": "templates/Excalidraw.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Excalidraw Templater.md",
+                "file": "templates/Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Excalidraw Templater.md",
+                "file": "templates/Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Excalidraw Templater.md"
+                "file": "templates/Excalidraw.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Excalidraw Templater.md"
+                "file": "templates/Excalidraw.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "44f39041b4a06f80",
   "lastOpenFiles": [
-    "templates/Excalidraw.md",
     "templates/Excalidraw Templater.md",
+    "templates/Excalidraw.md",
     "Fleet note/NOTEA.md",
     "Fleet note/Untitled.svg",
     "Fleet note/Untitled.md",

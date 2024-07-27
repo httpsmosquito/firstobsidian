@@ -15,7 +15,7 @@
               "state": {
                 "file": "templates/new note.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -184,9 +184,9 @@
   },
   "active": "d0d70341dabd787b",
   "lastOpenFiles": [
-    "Fleet note/NOTE A.md",
     "Literature note/Personal Access Token.md",
     "templates/new note.md",
+    "Fleet note/NOTE A.md",
     "Excalidraw/Drawing 2024-07-27 17.09.44.md",
     "Fleet note/Untitled.svg",
     "Fleet note/Untitled.md",

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md",
+                "file": "templates/new note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dde9ac104cd6871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/new note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce222206a03fa348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md",
+                "file": "Fleet note/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md",
+                "file": "Fleet note/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md"
+                "file": "Fleet note/Untitled.md"
               }
             }
           },
@@ -155,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md"
+                "file": "Fleet note/Untitled.md"
               }
             }
           }
@@ -182,21 +207,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4352e9247a7901fe",
+  "active": "ce222206a03fa348",
   "lastOpenFiles": [
+    "Fleet note/Untitled.svg",
+    "templates/new note.md",
+    "Fleet note/Untitled.md",
     "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
     "Scripts",
-    "Excalidraw/Drawing 2024-07-27 16.21.14.md",
     "Excalidraw/Drawing 2024-07-27 16.19.20.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-07-27 16.15.40.md",
     "Excalidraw/Drawing 2024-07-27 16.15.09.md",
-    "Excalidraw/new note.md",
     "Fleet note/Test Note.md",
-    "Fleet note/Untitled.md",
     "templates/New Note.md",
     "templates/New Note.svg",
-    "Fleet note/Untitled.svg",
     "Fleet note/SCR.md",
     "Fleet note/SCR.svg",
     "templates/Textual.md",
@@ -220,7 +244,6 @@
     "附件圖/橋式整流器內部電路.png",
     "附件圖/橋式整流器.png",
     "附件圖/單向晶閘管SCR.png",
-    "附件圖/光耦合器.png",
     "Fleet note/高通濾波器.md",
     "Fleet note/電磁干擾.md",
     "Fleet note/湧浪電流.md",

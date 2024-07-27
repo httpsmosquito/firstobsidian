@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b87683fa4d1a3371",
+        "id": "2c23eac36e9cdf5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d70341dabd787b",
+            "id": "44f39041b4a06f80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Excalidraw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1295f7fd87c120a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleet note/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleet note/Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Fleet note/Untitled 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -195,17 +172,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1295f7fd87c120a0",
+  "active": "44f39041b4a06f80",
   "lastOpenFiles": [
+    "templates/Excalidraw.md",
+    "Fleet note/NOTEA.md",
+    "Fleet note/Untitled.svg",
     "Fleet note/Untitled.md",
     "Fleet note/Untitled 1.md",
-    "templates/Excalidraw.md",
+    "Fleet note/Untitled 1.svg",
     "templates/Excalidraw.svg",
     "templates/new note.svg",
     "Literature note/Personal Access Token.md",
     "Fleet note/NOTE A.md",
     "Excalidraw/Drawing 2024-07-27 17.09.44.md",
-    "Fleet note/Untitled.svg",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Fleet note/SIC碳化硅.md",
     "Scripts/Untitled.canvas",
@@ -236,8 +215,6 @@
     "附件圖/雙向晶閘管.png",
     "附件圖/開關元件比較.png",
     "附件圖/橋式整流器電路分析.png",
-    "附件圖/橋式整流器內部電路.png",
-    "Fleet note/高通濾波器.md",
     "未命名",
     "附件圖",
     "firstobsidian/templates",

@@ -11,8 +11,12 @@
             "id": "d0d70341dabd787b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/new note.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/NOTE A.md"
+                "file": "templates/new note.md"
               }
             }
           },
@@ -149,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/NOTE A.md"
+                "file": "templates/new note.md"
               }
             }
           }
@@ -176,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "d0d70341dabd787b",
   "lastOpenFiles": [
     "Fleet note/NOTE A.md",
     "Literature note/Personal Access Token.md",

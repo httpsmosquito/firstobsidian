@@ -1,13 +1,13 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+excalidraw-open-md:
 ---
 ![[{{title}}.svg]]
 
 # Excalidraw Data
-## Text Elements
+## 1. Text Elements
 %%
 ## Drawing
 ```compressed-json

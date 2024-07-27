@@ -1,11 +1,11 @@
 ---
 tags:
-  - excalidraw
   - SCR
 created: 2024-07-10T11:16:00.000Z
 Source URL: https://zh.wikipedia.org/wiki/%E6%99%B6%E9%96%98%E7%AE%A1
 Topics:
   - 電子元件
+excalidraw-open-md: true
 ---
 
 ![[單向晶閘管SCR.png]]

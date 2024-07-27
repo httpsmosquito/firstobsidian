@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce222206a03fa348",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fleet note/Untitled.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/Untitled.md",
+                "file": "templates/new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/Untitled.md",
+                "file": "templates/new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet note/Untitled.md"
+                "file": "templates/new note.md"
               }
             }
           },
@@ -178,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fleet note/Untitled.md"
+                "file": "templates/new note.md"
               }
             }
           }
@@ -205,11 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce222206a03fa348",
+  "active": "6dde9ac104cd6871",
   "lastOpenFiles": [
+    "Scripts/Untitled.canvas",
+    "Fleet note/Untitled.md",
     "Fleet note/Untitled.svg",
     "templates/new note.md",
-    "Fleet note/Untitled.md",
     "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
     "Scripts",
     "Excalidraw/Drawing 2024-07-27 16.19.20.md",

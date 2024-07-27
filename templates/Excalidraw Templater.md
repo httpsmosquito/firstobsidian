@@ -4,7 +4,8 @@ tags: []
 excalidraw-open-md: true
 ---
 
-<%tp.%>
+<% tp.file.title %>
+
 ![[{{title}}.svg]]
 
 %%

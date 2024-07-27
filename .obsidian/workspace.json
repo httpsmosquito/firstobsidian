@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06b96a406cda0c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Fleet note/Untitled.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Fleet note/Untitled.md"
               }
             }
           }
@@ -182,11 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4352e9247a7901fe",
+  "active": "06b96a406cda0c4c",
   "lastOpenFiles": [
+    "Fleet note/Untitled.svg",
+    "templates/New Note.md",
+    "Fleet note/Untitled.md",
     "templates/New Note.svg",
     "templates/Drawing 2024-07-27 15.25.29.md",
-    "templates/New Note.md",
     "templates/Drawing 2024-07-27 15.25.04.md",
     "templates/Drawing 2024-07-27 15.25.06.md",
     "Excalidraw/Drawing 2024-07-15 16.46.16.md",
@@ -194,7 +209,6 @@
     "Fleet note/Excalidraw template.md",
     "Fleet note/Test Note.md",
     "SIC碳化硅.md",
-    "Fleet note/Untitled.md",
     "templates",
     "scripts",
     "Fleet note/Untitled 1.md",
@@ -213,7 +227,6 @@
     "附件圖/光耦合器.png",
     "附件圖/TVS Diode.png",
     "附件圖/Pasted image 20240710101315.png",
-    "附件圖/IGBT.png",
     "Fleet note/高通濾波器.md",
     "Fleet note/電磁干擾.md",
     "Fleet note/湧浪電流.md",

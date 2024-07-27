@@ -21,9 +21,11 @@
             "id": "6dde9ac104cd6871",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "templates/new note.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/new note.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/new note.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/new note.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/new note.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
               }
             }
           }
@@ -193,10 +195,11 @@
   },
   "active": "6dde9ac104cd6871",
   "lastOpenFiles": [
+    "templates/new note.md",
+    "Fleet note/SIC碳化硅.md",
     "Scripts/Untitled.canvas",
     "Fleet note/Untitled.md",
     "Fleet note/Untitled.svg",
-    "templates/new note.md",
     "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
     "Scripts",
     "Excalidraw/Drawing 2024-07-27 16.19.20.md",
@@ -215,7 +218,6 @@
     "Excalidraw/Drawing 2024-07-15 16.46.16.md",
     "Fleet note/excalidrawTest.md",
     "Fleet note/Excalidraw template.md",
-    "SIC碳化硅.md",
     "templates",
     "scripts",
     "Fleet note/TVS.md",

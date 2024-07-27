@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/SCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/SCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Fleet note/SCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Fleet note/SCR.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Fleet note/SCR.md"
               }
             }
           }
@@ -209,8 +209,9 @@
   },
   "active": "928cb73948b6daea",
   "lastOpenFiles": [
-    "templates/Textual.md",
+    "Fleet note/SCR.svg",
     "templates/New Note.md",
+    "templates/Textual.md",
     "templates/New Note.svg",
     "Fleet note/Untitled.md",
     "Fleet note/Untitled.svg",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Textual.md",
+                "file": "templates/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Textual.md",
+                "file": "templates/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Textual.md",
+                "file": "templates/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Textual.md"
+                "file": "templates/New Note.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Textual.md"
+                "file": "templates/New Note.md"
               }
             }
           }
@@ -209,11 +209,11 @@
   },
   "active": "928cb73948b6daea",
   "lastOpenFiles": [
-    "Fleet note/Untitled.md",
     "templates/Textual.md",
-    "Fleet note/Untitled.svg",
     "templates/New Note.md",
     "templates/New Note.svg",
+    "Fleet note/Untitled.md",
+    "Fleet note/Untitled.svg",
     "templates/Drawing 2024-07-27 15.25.29.md",
     "templates/Drawing 2024-07-27 15.25.04.md",
     "templates/Drawing 2024-07-27 15.25.06.md",

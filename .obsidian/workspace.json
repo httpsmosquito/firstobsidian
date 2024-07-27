@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ce92b9b0139bf50",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fleet note/橋式整流.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44f39041b4a06f80",
+  "active": "8ce92b9b0139bf50",
   "lastOpenFiles": [
-    "templates/Excalidraw.md",
+    "templates/Untitled.md",
     "Fleet note/橋式整流.md",
+    "templates/Excalidraw.md",
     "Fleet note/橋式整流.svg",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/AA.md",
@@ -223,7 +235,6 @@
     "Fleet note/Excalidraw template.md",
     "templates",
     "scripts",
-    "Fleet note/TVS.md",
     "附件圖/雙向晶閘管.png",
     "未命名",
     "附件圖",

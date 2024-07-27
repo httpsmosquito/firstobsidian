@@ -4,7 +4,8 @@ tags: []
 excalidraw-open-md: true
 ---
 
-<% tp.file.title %>
+<%* tp.file.include("[[Excalidraw]]") %>
+
 
 ![[{{title}}.svg]]
 

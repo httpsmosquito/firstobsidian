@@ -19,36 +19,6 @@ test texing ^whpJWCpf
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
 	"elements": [
 		{
-			"type": "rectangle",
-			"version": 19,
-			"versionNonce": 1672004767,
-			"index": "a0",
-			"isDeleted": false,
-			"id": "xCk1KHh9itfmkYBOHp2c0",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -190,
-			"y": -155.83748626708984,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 339.20001220703125,
-			"height": 275.20001220703125,
-			"seed": 586656529,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1722065472116,
-			"link": null,
-			"locked": false
-		},
-		{
 			"type": "text",
 			"version": 15,
 			"versionNonce": 997611217,
@@ -84,6 +54,36 @@ test texing ^whpJWCpf
 			"containerId": null,
 			"originalText": "test texing",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "ellipse",
+			"version": 44,
+			"versionNonce": 1133072049,
+			"index": "a2",
+			"isDeleted": false,
+			"id": "fRvE7vxiY3GWTuWZdLBXl",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -91.29653720198004,
+			"y": -98.12540172708444,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 244.41380994073273,
+			"height": 200.27587890624997,
+			"seed": 2116460415,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1722066012163,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -101,10 +101,10 @@ test texing ^whpJWCpf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 200.39999389648435,
-		"scrollY": 272.6943725059772,
+		"scrollX": 99.58963223161368,
+		"scrollY": 182.46870922220165,
 		"zoom": {
-			"value": 1.4500000000000002
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

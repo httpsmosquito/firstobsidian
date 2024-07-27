@@ -11,11 +11,9 @@
             "id": "4352e9247a7901fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "templates/new note.md",
-                "mode": "source",
-                "source": false
+                "file": "templates/new note.md"
               }
             }
           },
@@ -23,11 +21,9 @@
             "id": "6dde9ac104cd6871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "templates/new note.md",
-                "mode": "source",
-                "source": false
+                "file": "templates/new note.md"
               }
             }
           }

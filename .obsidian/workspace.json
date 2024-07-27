@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md",
+                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md",
+                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md",
+                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md"
+                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 16.19.20.md"
+                "file": "Excalidraw/Drawing 2024-07-27 16.21.14.md"
               }
             }
           }
@@ -184,6 +184,9 @@
   },
   "active": "4352e9247a7901fe",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
+    "Scripts",
+    "Excalidraw/Drawing 2024-07-27 16.21.14.md",
     "Excalidraw/Drawing 2024-07-27 16.19.20.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-07-27 16.15.40.md",
@@ -221,14 +224,11 @@
     "Fleet note/高通濾波器.md",
     "Fleet note/電磁干擾.md",
     "Fleet note/湧浪電流.md",
-    "Fleet note/抑制湧浪電流.md",
-    "Fleet note/傳導性EMI.md",
     "未命名",
     "附件圖",
     "firstobsidian/templates",
     "firstobsidian",
     "templates",
-    "Project-related note/電源架構",
-    "Project-related note/韓文"
+    "Project-related note/電源架構"
   ]
 }

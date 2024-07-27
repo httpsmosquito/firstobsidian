@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ei",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4352e9247a7901fe",
+  "active": "15822e709a5d691e",
   "lastOpenFiles": [
     "Fleet note/Test Note.md",
     "SIC碳化硅.md",

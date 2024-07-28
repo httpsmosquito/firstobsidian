@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categorized note/Power Electronics/傳導性EMI.md",
+                "file": "Literature note/Personal Access Token.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Categorized note/Power Electronics/傳導性EMI.md",
+                "file": "Literature note/Personal Access Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Categorized note/Power Electronics/傳導性EMI.md",
+                "file": "Literature note/Personal Access Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Categorized note/Power Electronics/傳導性EMI.md"
+                "file": "Literature note/Personal Access Token.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Categorized note/Power Electronics/傳導性EMI.md"
+                "file": "Literature note/Personal Access Token.md"
               }
             }
           }
@@ -182,13 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "0aba7be4a80a85b4",
   "lastOpenFiles": [
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Literature note/Personal Access Token.md",
+    "Categorized note/Power Electronics/傳導性EMI.md",
     "Categorized note/Power Electronics/輻射性EMI.md",
     "Recording 20240728153944.webm",
-    "Categorized note/Power Electronics/傳導性EMI.md",
-    "Literature note/Personal Access Token.md",
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Unclassified note/Untitled.md",
     "Personal Management/Diary/20240512日記.md",
     "Personal Management/Diary",

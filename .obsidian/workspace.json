@@ -8,78 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f7ed996c4f7237a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Diary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c79f239a997fd736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Excalidraw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f922c0059e8c309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Excalidraw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e34c55c1f75da3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Diary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d62d00cbcc322d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "2024-07-29.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "41fedefb7830046a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "279d01f0b91a87e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -148,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Diary.md"
+                "file": "2024-07-29.md"
               }
             }
           },
@@ -218,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Diary.md"
+                "file": "2024-07-29.md"
               }
             }
           }
@@ -247,8 +184,9 @@
   },
   "active": "d62d00cbcc322d8b",
   "lastOpenFiles": [
-    "Personal Management/Diary/2024-07-28.md",
     "Templates/Diary.md",
+    "2024-07-29.md",
+    "Personal Management/Diary/2024-07-28.md",
     "Unclassified note/TOMORROW.md",
     "Personal Management/Diary/2024-07-29.md",
     "Unclassified note/Untitled 1.md",
@@ -274,7 +212,6 @@
     "Categorized note/Power Electronics/高通濾波器.md",
     "Categorized note/Power Electronics/電磁干擾.md",
     "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
-    "Categorized note/Power Electronics/傳導性EMI.md",
     "Recording 20240728153944.webm",
     "Personal Management/Diary",
     "Personal Management/Task",

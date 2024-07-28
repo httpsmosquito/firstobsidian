@@ -1,13 +1,9 @@
 ---
-Topics: 
-tags: 
+tags:
+  - diary
 created: 2024-07-28 21:34
-Author: 
-Source URL: 
-excalidraw-plugin: parsed
-excalidraw-open-md: true
 ---
-# Diary
+# <%tp.date%>
 ![[Diary.svg]]
 
 

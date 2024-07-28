@@ -63,7 +63,7 @@
               "state": {
                 "file": "Templates/Diary.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }

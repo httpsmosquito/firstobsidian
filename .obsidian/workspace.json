@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "templates/Excalidraw.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "templates/Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "templates/Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature note/Personal Access Token.md"
+                "file": "templates/Excalidraw.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Literature note/Personal Access Token.md"
+                "file": "templates/Excalidraw.md"
               }
             }
           }
@@ -197,19 +197,21 @@
   },
   "active": "2acfb990e58b110e",
   "lastOpenFiles": [
+    "templates/Excalidraw-convert-ExistingFile.md",
+    "templates/Excalidraw.md",
+    "Fleet note/NO.md",
+    "Fleet note/NOTEA.md",
+    "Fleet note/NOTEA.svg",
+    "Literature note/Personal Access Token.md",
     "Fleet note/Untitled.md",
     "Fleet note/123.md",
     "Fleet note/123.svg",
-    "Literature note/Personal Access Token.md",
     "Fleet note/橋式整流.md",
-    "templates/Excalidraw.md",
-    "templates/Excalidraw-convert-ExistingFile.md",
     "Fleet note/橋式整流.svg",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/AA.md",
     "Fleet note/AA.svg",
     "templates/Excalidraw Templater.md",
-    "Fleet note/NOTEA.md",
     "Fleet note/Untitled 1.md",
     "Fleet note/Untitled 1.svg",
     "templates/Excalidraw.svg",
@@ -234,10 +236,8 @@
     "templates/Drawing 2024-07-27 15.25.29.md",
     "templates/Drawing 2024-07-27 15.25.04.md",
     "templates/Drawing 2024-07-27 15.25.06.md",
-    "Excalidraw/Drawing 2024-07-15 16.46.16.md",
     "templates",
     "scripts",
-    "附件圖/雙向晶閘管.png",
     "未命名",
     "附件圖",
     "firstobsidian/templates",

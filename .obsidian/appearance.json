@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#1d8b75",
   "enabledCssSnippets": [
     "隱藏Scripts資料夾"
-  ]
+  ],
+  "theme": "obsidian"
 }

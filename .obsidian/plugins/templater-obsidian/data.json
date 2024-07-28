@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Fleet note",
-      "template": "templates/Excalidraw.md"
+      "folder": "Unclassified note",
+      "template": "Templates/Excalidraw.md"
     }
   ],
   "syntax_highlighting": true,

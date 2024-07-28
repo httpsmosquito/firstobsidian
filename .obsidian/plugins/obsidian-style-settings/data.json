@@ -27,5 +27,19 @@
   "anuppuccin-theme-settings@@anp-card-shadows": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato"
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@file-margins": 10,
+  "anuppuccin-theme-settings@@file-line-width": 500,
+  "anuppuccin-theme-settings@@anp-preview-width-pct": 70,
+  "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false,
+  "anuppuccin-theme-settings@@anp-kanban-card-opacity": 0.1,
+  "anuppuccin-theme-settings@@anp-kanban-card-radius": 1,
+  "anuppuccin-theme-settings@@anp-kanban-card-spacing": 3,
+  "anuppuccin-theme-settings@@anp-kanban-hide-archive-btn": false,
+  "anuppuccin-theme-settings@@anp-kanban-lane-opacity": 0.45,
+  "anuppuccin-theme-settings@@anp-kanban-search-full": false,
+  "anuppuccin-theme-settings@@anp-kanban-collapse-lanes": false,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": false,
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": true
 }

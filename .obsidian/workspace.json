@@ -13,13 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "adb3723e80906ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a351f7d0694d070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature note/Personal Access Token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a94d61f5f6f19c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature note/Personal Access Token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +213,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0aba7be4a80a85b4",
+  "active": "5a351f7d0694d070",
   "lastOpenFiles": [
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Literature note/Personal Access Token.md",

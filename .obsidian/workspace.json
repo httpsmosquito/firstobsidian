@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Excalidraw.md",
+                "file": "Templates/Diary.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "Categorized note/obsidian/Markdown/上標、下標.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +230,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "920d714ea31cd45c",
+  "active": "586ad5b0fe74e76e",
   "lastOpenFiles": [
     "Templates/Excalidraw.md",
     "Templates/Excalidraw-convert-ExistingFile.md",
     "Templates/Diary.md",
+    "Categorized note/obsidian/Markdown/上標、下標.md",
     "Unclassified note/123.md",
     "Unclassified note/Untitled 1.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
@@ -254,7 +254,6 @@
     "Categorized note/Power Electronics/橋式整流.md",
     "Personal Management",
     "Categorized note/Power Electronics/電流勾表使用.md",
-    "Categorized note/obsidian/Markdown/上標、下標.md",
     "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
     "Unclassified note/未命名.md",
     "Categorized note/obsidian/Markdown",

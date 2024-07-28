@@ -11,8 +11,12 @@
             "id": "90c799e4496bc134",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unclassified note/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Management/Diary/20240512日記.md",
+                "file": "Unclassified note/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Management/Diary/20240512日記.md",
+                "file": "Unclassified note/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Management/Diary/20240512日記.md"
+                "file": "Unclassified note/Untitled.md"
               }
             }
           },
@@ -151,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Personal Management/Diary/20240512日記.md"
+                "file": "Unclassified note/Untitled.md"
               }
             }
           }
@@ -178,8 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "90c799e4496bc134",
   "lastOpenFiles": [
+    "Personal Management/Diary/20240512日記.md",
+    "Unclassified note/Untitled.md",
     "Personal Management/Diary",
     "Personal Management/Task",
     "Categorized note/Power Electronics/橋式整流.md",
@@ -195,7 +201,6 @@
     "Categorized note/Korean",
     "Categorized note/Power Electronics/輻射性EMI.md",
     "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
-    "Unclassified note/Untitled.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -225,7 +230,6 @@
     "Scripts",
     "Excalidraw",
     "templates/New Note.svg",
-    "Templates",
-    "scripts"
+    "Templates"
   ]
 }

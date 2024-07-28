@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "920d714ea31cd45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Diary.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unclassified note/Untitled.md"
+                "file": "Templates/Diary.md"
               }
             }
           },
@@ -190,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unclassified note/Untitled.md"
+                "file": "Templates/Diary.md"
               }
             }
           }
@@ -217,14 +231,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "920d714ea31cd45c",
   "lastOpenFiles": [
     "Templates/Excalidraw.md",
-    "Unclassified note/Untitled.md",
     "Templates/Excalidraw-convert-ExistingFile.md",
+    "Templates/Diary.md",
+    "Unclassified note/123.md",
     "Unclassified note/Untitled 1.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
-    "Unclassified note/123.md",
     "Categorized note/Power Electronics/抑制湧浪電流.md",
     "Categorized note/Power Electronics/湧浪電流.md",
     "Categorized note/Power Electronics/高通濾波器.md",

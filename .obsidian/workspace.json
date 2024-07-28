@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categorized note/Power Electronics/抑制湧浪電流.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Categorized note/Power Electronics/抑制湧浪電流.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Categorized note/Power Electronics/抑制湧浪電流.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Categorized note/Power Electronics/抑制湧浪電流.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Categorized note/Power Electronics/抑制湧浪電流.md"
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "a94d61f5f6f19c30",
   "lastOpenFiles": [
-    "Unclassified note/Untitled 1.md",
     "Categorized note/Power Electronics/抑制湧浪電流.md",
+    "Unclassified note/Untitled 1.md",
     "Categorized note/Power Electronics/湧浪電流.md",
     "Categorized note/Power Electronics/高通濾波器.md",
     "Categorized note/Power Electronics/電磁干擾.md",

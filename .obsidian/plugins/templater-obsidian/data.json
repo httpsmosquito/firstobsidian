@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Fleet note",
+      "template": "templates/Excalidraw.md"
     }
   ],
   "syntax_highlighting": true,

@@ -23,8 +23,12 @@
             "id": "2acfb990e58b110e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literature note/Personal Access Token.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature note/Personal Access Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature note/Personal Access Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literature note/Personal Access Token.md"
+              }
             }
           },
           {
@@ -159,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Literature note/Personal Access Token.md"
+              }
             }
           }
         ],
@@ -187,6 +197,7 @@
   },
   "active": "2acfb990e58b110e",
   "lastOpenFiles": [
+    "Fleet note/Untitled.md",
     "Fleet note/123.md",
     "Fleet note/123.svg",
     "Literature note/Personal Access Token.md",

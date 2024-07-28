@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-29.md",
+                "file": "Templates/Excalidraw-for existing file.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239
   },
   "right": {
     "id": "c032efeee1473a0e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-29.md",
+                "file": "Templates/Excalidraw-for existing file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-29.md",
+                "file": "Templates/Excalidraw-for existing file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-29.md"
+                "file": "Templates/Excalidraw-for existing file.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024-07-29.md"
+                "file": "Templates/Excalidraw-for existing file.md"
               }
             }
           }
@@ -182,15 +182,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d62d00cbcc322d8b",
+  "active": "15822e709a5d691e",
   "lastOpenFiles": [
-    "Templates/Diary.md",
+    "Templates/Korean.md",
+    "Untitled",
+    "Personal Management/Diary/2024-07-29.md",
     "2024-07-29.md",
+    "Templates/Diary.md",
     "Personal Management/Diary/2024-07-28.md",
     "Unclassified note/TOMORROW.md",
-    "Personal Management/Diary/2024-07-29.md",
     "Unclassified note/Untitled 1.md",
-    "Unclassified note/Untitled.md",
     "Unclassified note/123.md",
     "Unclassified note/123.svg",
     "Templates/Excalidraw.md",
@@ -205,13 +206,12 @@
     "Image/Pasted image 20240710101315.png",
     "Personal Management/Diary/20240728 Diary.md",
     "Personal Management/Diary/20240512日記.md",
-    "Templates/Excalidraw-convert-ExistingFile.md",
+    "Templates/Excalidraw-for existing file.md",
     "Categorized note/obsidian/Markdown/上標、下標.md",
     "Categorized note/Power Electronics/抑制湧浪電流.md",
     "Categorized note/Power Electronics/湧浪電流.md",
     "Categorized note/Power Electronics/高通濾波器.md",
     "Categorized note/Power Electronics/電磁干擾.md",
-    "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
     "Recording 20240728153944.webm",
     "Personal Management/Diary",
     "Personal Management/Task",
@@ -229,7 +229,6 @@
     "templates/Excalidraw.svg",
     "templates/new note.svg",
     "Scripts/Untitled.canvas",
-    "Scripts",
-    "Excalidraw"
+    "Scripts"
   ]
 }

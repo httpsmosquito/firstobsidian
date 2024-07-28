@@ -23,10 +23,8 @@
             "id": "2acfb990e58b110e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fleet note/123.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -96,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet note/123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet note/123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleet note/123.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Fleet note/123.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,11 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "2acfb990e58b110e",
   "lastOpenFiles": [
+    "Fleet note/123.md",
     "Fleet note/123.svg",
     "Literature note/Personal Access Token.md",
-    "Fleet note/123.md",
     "Fleet note/橋式整流.md",
     "templates/Excalidraw.md",
     "templates/Excalidraw-convert-ExistingFile.md",

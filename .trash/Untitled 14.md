@@ -1,14 +1,10 @@
 ---
 excalidraw-plugin: parsed
+tags: []
 excalidraw-open-md: true
-Topics: 
-tags: 
-created: yyyy-mm-dd hh:mm:ss
-Author: 
-Source URL:
 ---
-# <%tp.file.title%>
-![[<%tp.file.title%>.svg]]
+# Untitled
+![[Untitled.svg]]
 
 %%
 # Excalidraw Data

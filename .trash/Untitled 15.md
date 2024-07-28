@@ -3,12 +3,12 @@ excalidraw-plugin: parsed
 excalidraw-open-md: true
 Topics: 
 tags: 
-created: yyyy-mm-dd hh:mm:ss
+created: 2024-07-28T13:53:00
 Author: 
 Source URL:
 ---
-# <%tp.file.title%>
-![[<%tp.file.title%>.svg]]
+# Untitled
+![[Untitled.svg]]
 
 %%
 # Excalidraw Data

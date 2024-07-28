@@ -27,7 +27,7 @@
               "state": {
                 "file": "templates/Excalidraw.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -198,8 +198,8 @@
   "active": "2acfb990e58b110e",
   "lastOpenFiles": [
     "Fleet note/Untitled.md",
-    "Fleet note/Untitled.svg",
     "templates/Excalidraw.md",
+    "Fleet note/Untitled.svg",
     "templates/Excalidraw-convert-ExistingFile.md",
     "Fleet note/NO.md",
     "Fleet note/NOTEA.md",

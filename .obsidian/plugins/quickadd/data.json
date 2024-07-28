@@ -34,36 +34,6 @@
       },
       "openFile": false,
       "openFileInMode": "default"
-    },
-    {
-      "id": "f74948ac-077c-4957-a12c-71cf6db02b04",
-      "name": "Template - Add new Diary",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/Diary.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{date}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Personal Management/Diary"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
     }
   ],
   "macros": [],

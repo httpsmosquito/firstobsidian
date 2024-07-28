@@ -69,6 +69,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "301ed66ac859fdc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d6bb3fbff2387dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Management/Diary/20240728 Diary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "Personal Management/Diary/20240728 Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "Personal Management/Diary/20240728 Diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Diary.md"
+                "file": "Personal Management/Diary/20240728 Diary.md"
               }
             }
           },
@@ -204,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Diary.md"
+                "file": "Personal Management/Diary/20240728 Diary.md"
               }
             }
           }
@@ -230,11 +248,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "586ad5b0fe74e76e",
+  "active": "2d6bb3fbff2387dd",
   "lastOpenFiles": [
+    "Personal Management/Diary/20240512日記.md",
+    "Personal Management/Diary/20240728 Diary.md",
+    "Templates/Diary.md",
     "Templates/Excalidraw.md",
     "Templates/Excalidraw-convert-ExistingFile.md",
-    "Templates/Diary.md",
     "Categorized note/obsidian/Markdown/上標、下標.md",
     "Unclassified note/123.md",
     "Unclassified note/Untitled 1.md",
@@ -248,7 +268,6 @@
     "Categorized note/Power Electronics/傳導性EMI.md",
     "Categorized note/Power Electronics/輻射性EMI.md",
     "Recording 20240728153944.webm",
-    "Personal Management/Diary/20240512日記.md",
     "Personal Management/Diary",
     "Personal Management/Task",
     "Categorized note/Power Electronics/橋式整流.md",
@@ -266,7 +285,6 @@
     "Untitled.md",
     "Excalidraw/Drawing 2024-07-27 17.09.44.md",
     "Fleet note/橋式整流.svg",
-    "Categorized note/Power Electronics/SCR.md",
     "Fleet note/Untitled.svg",
     "Fleet note/NOTEA.svg",
     "Fleet note/123.svg",

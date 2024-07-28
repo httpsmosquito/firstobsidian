@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "556acc0cea4acb86",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0aba7be4a80a85b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "adb3723e80906ab7",
         "type": "tabs",
         "children": [
@@ -43,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "Categorized note/Power Electronics/湧浪電流.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "Categorized note/Power Electronics/湧浪電流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature note/Personal Access Token.md",
+                "file": "Categorized note/Power Electronics/湧浪電流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature note/Personal Access Token.md"
+                "file": "Categorized note/Power Electronics/湧浪電流.md"
               }
             }
           },
@@ -186,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Literature note/Personal Access Token.md"
+                "file": "Categorized note/Power Electronics/湧浪電流.md"
               }
             }
           }
@@ -213,10 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a351f7d0694d070",
+  "active": "a94d61f5f6f19c30",
   "lastOpenFiles": [
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Categorized note/Power Electronics/高通濾波器.md",
+    "Categorized note/Power Electronics/電磁干擾.md",
+    "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
     "Literature note/Personal Access Token.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Categorized note/Power Electronics/傳導性EMI.md",
     "Categorized note/Power Electronics/輻射性EMI.md",
     "Recording 20240728153944.webm",
@@ -235,7 +220,6 @@
     "Categorized note/obsidian",
     "Categorized note/Business note",
     "Categorized note/Korean",
-    "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -249,7 +233,6 @@
     "Fleet note/Untitled.svg",
     "Templates/Excalidraw-convert-ExistingFile.md",
     "Fleet note/NO.md",
-    "Fleet note/NOTEA.md",
     "Fleet note/NOTEA.svg",
     "Fleet note/123.svg",
     "Fleet note/AA.svg",

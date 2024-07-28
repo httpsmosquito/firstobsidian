@@ -1,7 +1,7 @@
 ---
 Topics: 
 tags: 
-created: 2024-07-28 21:24
+created: 2024-07-28 15:20
 Author: 
 Source URL: 
 excalidraw-plugin: parsed
@@ -13,8 +13,7 @@ excalidraw-open-md: true
 
 
 
-
-
+%%
 # Excalidraw Data
 ## Text Elements
 ## Drawing

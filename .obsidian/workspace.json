@@ -25,21 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unclassified note/Untitled.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdb8949bb7eb90b3",
+            "id": "586ad5b0fe74e76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unclassified note/123.md",
+                "file": "Unclassified note/Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unclassified note/123.md",
+                "file": "Unclassified note/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unclassified note/123.md",
+                "file": "Unclassified note/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unclassified note/123.md"
+                "file": "Unclassified note/Untitled.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unclassified note/123.md"
+                "file": "Unclassified note/Untitled.md"
               }
             }
           }
@@ -207,12 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fdb8949bb7eb90b3",
+  "active": "586ad5b0fe74e76e",
   "lastOpenFiles": [
-    "Unclassified note/Untitled 1.md",
-    "Unclassified note/123.md",
     "Unclassified note/Untitled.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Unclassified note/Untitled 1.md",
+    "Unclassified note/123.md",
     "Categorized note/Power Electronics/抑制湧浪電流.md",
     "Categorized note/Power Electronics/湧浪電流.md",
     "Categorized note/Power Electronics/高通濾波器.md",

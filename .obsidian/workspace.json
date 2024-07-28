@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2c23eac36e9cdf5b",
+        "id": "08422e41f4c387cb",
         "type": "tabs",
         "children": [
           {
-            "id": "44f39041b4a06f80",
+            "id": "90c799e4496bc134",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorized note/Power Electronics/橋式整流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2acfb990e58b110e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorized note/Power Electronics/輻射性EMI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7faaaf6a099c5b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fed1d5f83349698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unclassified note/20240512日記.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unclassified note/20240512日記.md",
+                "file": "Personal Management/Diary/20240512日記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unclassified note/20240512日記.md",
+                "file": "Personal Management/Diary/20240512日記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unclassified note/20240512日記.md"
+                "file": "Personal Management/Diary/20240512日記.md"
               }
             }
           },
@@ -192,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unclassified note/20240512日記.md"
+                "file": "Personal Management/Diary/20240512日記.md"
               }
             }
           }
@@ -219,10 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fed1d5f83349698",
+  "active": "15822e709a5d691e",
   "lastOpenFiles": [
+    "Personal Management/Diary",
+    "Personal Management/Task",
     "Categorized note/Power Electronics/橋式整流.md",
-    "Di",
+    "Personal Management",
     "Categorized note/Power Electronics/電流勾表使用.md",
     "Categorized note/obsidian/Markdown/上標、下標.md",
     "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
@@ -265,7 +226,6 @@
     "Excalidraw",
     "templates/New Note.svg",
     "Templates",
-    "scripts",
-    "未命名"
+    "scripts"
   ]
 }

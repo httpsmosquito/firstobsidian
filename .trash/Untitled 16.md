@@ -3,12 +3,12 @@ excalidraw-plugin: parsed
 excalidraw-open-md: true
 Topics: 
 tags: 
-created: <% tp.date.now("YYYY-MM-DD HH：MM：SS") %>
+created: 2024-07-28
 Author: 
 Source URL:
 ---
-# <%tp.file.title%>
-![[<%tp.file.title%>.svg]]
+# Untitled
+![[Untitled.svg]]
 
 %%
 # Excalidraw Data

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
+                "file": "Categorized note/電源架構/輻射性EMI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7faaaf6a099c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Categorized note/電源架構/EMI(Electromagnetic Interference, EMI).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
+                "file": "Categorized note/電源架構/EMI(Electromagnetic Interference, EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
+                "file": "Categorized note/電源架構/EMI(Electromagnetic Interference, EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
+                "file": "Categorized note/電源架構/EMI(Electromagnetic Interference, EMI).md"
               }
             }
           },
@@ -168,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
+                "file": "Categorized note/電源架構/EMI(Electromagnetic Interference, EMI).md"
               }
             }
           }
@@ -195,16 +207,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2acfb990e58b110e",
+  "active": "15822e709a5d691e",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Categorized note/電源架構/輻射性EMI.md",
+    "Categorized note/電源架構/過電壓保護over-voltage protection.md",
+    "Unclassified note/Untitled.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.md",
     "Excalidraw/Drawing 2024-07-27 17.09.44.md",
     "Literature note/Personal Access Token.md",
     "Unclassified note/橋式整流.md",
     "Fleet note/橋式整流.svg",
-    "Unclassified note/SCR.md",
+    "Categorized note/電源架構/SCR.md",
     "Templates/Excalidraw.md",
     "Fleet note/123.md",
     "Fleet note/NOEW.md",
@@ -215,7 +231,7 @@
     "Fleet note/NOTEA.md",
     "Fleet note/NOTEA.svg",
     "Fleet note/123.svg",
-    "Unclassified note/抑制湧浪電流.md",
+    "Categorized note/電源架構/抑制湧浪電流.md",
     "Fleet note/AA.md",
     "Fleet note/AA.svg",
     "templates/Excalidraw Templater.md",
@@ -224,18 +240,14 @@
     "templates/Excalidraw.svg",
     "templates/new note.svg",
     "Fleet note/NOTE A.md",
-    "Unclassified note/SIC碳化硅.md",
+    "Categorized note/電源架構/SIC碳化硅.md",
     "Scripts/Untitled.canvas",
     "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
     "Scripts",
     "Excalidraw/Drawing 2024-07-27 16.19.20.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-07-27 16.15.40.md",
-    "Excalidraw/Drawing 2024-07-27 16.15.09.md",
-    "Fleet note/Test Note.md",
-    "templates/New Note.md",
     "templates/New Note.svg",
-    "templates/Textual.md",
     "Templates",
     "scripts",
     "未命名",
@@ -243,6 +255,6 @@
     "firstobsidian/templates",
     "firstobsidian",
     "Templates",
-    "Project-related note/電源架構"
+    "Categorized note/電源架構"
   ]
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Excalidraw.md",
+                "file": "Fleet note/橋式整流.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Excalidraw.md",
+                "file": "Fleet note/橋式整流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Excalidraw.md",
+                "file": "Fleet note/橋式整流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Excalidraw.md"
+                "file": "Fleet note/橋式整流.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Excalidraw.md"
+                "file": "Fleet note/橋式整流.md"
               }
             }
           }
@@ -197,8 +197,10 @@
   },
   "active": "2acfb990e58b110e",
   "lastOpenFiles": [
-    "Fleet note/123.md",
+    "Fleet note/橋式整流.svg",
+    "Fleet note/SCR.md",
     "templates/Excalidraw.md",
+    "Fleet note/123.md",
     "Fleet note/NOEW.md",
     "Fleet note/Untitled.md",
     "Fleet note/Untitled.svg",
@@ -209,7 +211,6 @@
     "Literature note/Personal Access Token.md",
     "Fleet note/123.svg",
     "Fleet note/橋式整流.md",
-    "Fleet note/橋式整流.svg",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/AA.md",
     "Fleet note/AA.svg",
@@ -232,10 +233,8 @@
     "Fleet note/Test Note.md",
     "templates/New Note.md",
     "templates/New Note.svg",
-    "Fleet note/SCR.md",
     "templates/Textual.md",
     "templates/Drawing 2024-07-27 15.25.29.md",
-    "templates/Drawing 2024-07-27 15.25.04.md",
     "templates",
     "scripts",
     "未命名",

@@ -28,5 +28,14 @@
   ],
   "editor:save-file": [],
   "markdown:toggle-preview": [],
-  "obsidian-excalidraw-plugin:insert-link-to-element": []
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element-area": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
 }

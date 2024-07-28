@@ -1,8 +1,7 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-teal",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-pink",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
@@ -24,5 +23,9 @@
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-card-layout-padding": 5,
   "anuppuccin-theme-settings@@anp-card-radius": 10,
-  "anuppuccin-theme-settings@@anp-card-header-left-padding": 10
+  "anuppuccin-theme-settings@@anp-card-header-left-padding": 10,
+  "anuppuccin-theme-settings@@anp-card-shadows": true,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": true,
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato"
 }

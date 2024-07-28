@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08422e41f4c387cb",
+        "id": "556acc0cea4acb86",
         "type": "tabs",
         "children": [
           {
-            "id": "90c799e4496bc134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorized note/Power Electronics/輻射性EMI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca691f41d3488a52",
+            "id": "0aba7be4a80a85b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Categorized note/Power Electronics/輻射性EMI.md",
+                "file": "Categorized note/Power Electronics/傳導性EMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Categorized note/Power Electronics/輻射性EMI.md",
+                "file": "Categorized note/Power Electronics/傳導性EMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Categorized note/Power Electronics/輻射性EMI.md"
+                "file": "Categorized note/Power Electronics/傳導性EMI.md"
               }
             }
           },
@@ -167,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Categorized note/Power Electronics/輻射性EMI.md"
+                "file": "Categorized note/Power Electronics/傳導性EMI.md"
               }
             }
           }
@@ -194,10 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90c799e4496bc134",
+  "active": "15822e709a5d691e",
   "lastOpenFiles": [
-    "Categorized note/Power Electronics/傳導性EMI.md",
     "Categorized note/Power Electronics/輻射性EMI.md",
+    "Recording 20240728153944.webm",
+    "Categorized note/Power Electronics/傳導性EMI.md",
     "Literature note/Personal Access Token.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Unclassified note/Untitled.md",
@@ -232,7 +221,6 @@
     "Fleet note/NOTEA.md",
     "Fleet note/NOTEA.svg",
     "Fleet note/123.svg",
-    "Categorized note/Power Electronics/抑制湧浪電流.md",
     "Fleet note/AA.svg",
     "Fleet note/Untitled 1.svg",
     "templates/Excalidraw.svg",
@@ -241,7 +229,6 @@
     "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
     "Scripts",
     "Excalidraw",
-    "templates/New Note.svg",
-    "Templates"
+    "templates/New Note.svg"
   ]
 }

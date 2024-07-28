@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unclassified note/橋式整流.md",
+                "file": "Categorized note/Power Electronics/橋式整流.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unclassified note/預計入庫日期已到但還沒庫存.md",
+                "file": "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unclassified note/上標、下標.md",
+                "file": "Unclassified note/20240512日記.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unclassified note/上標、下標.md",
+                "file": "Unclassified note/20240512日記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unclassified note/上標、下標.md",
+                "file": "Unclassified note/20240512日記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unclassified note/上標、下標.md"
+                "file": "Unclassified note/20240512日記.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unclassified note/上標、下標.md"
+                "file": "Unclassified note/20240512日記.md"
               }
             }
           }
@@ -221,12 +221,16 @@
   },
   "active": "9fed1d5f83349698",
   "lastOpenFiles": [
-    "Unclassified note/預計入庫日期已到但還沒庫存.md",
+    "Categorized note/Power Electronics/橋式整流.md",
+    "Di",
+    "Categorized note/Power Electronics/電流勾表使用.md",
+    "Categorized note/obsidian/Markdown/上標、下標.md",
+    "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
     "Unclassified note/未命名.md",
     "Categorized note/obsidian/Markdown",
     "Categorized note/Power Electronics/EMI(Electromagnetic Interference, EMI).md",
     "Categorized note/obsidian",
-    "Categorized note/行政業務隨記",
+    "Categorized note/Business note",
     "Categorized note/Korean",
     "Categorized note/Power Electronics/輻射性EMI.md",
     "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
@@ -237,7 +241,6 @@
     "Untitled.md",
     "Excalidraw/Drawing 2024-07-27 17.09.44.md",
     "Literature note/Personal Access Token.md",
-    "Unclassified note/橋式整流.md",
     "Fleet note/橋式整流.svg",
     "Categorized note/Power Electronics/SCR.md",
     "Templates/Excalidraw.md",
@@ -253,12 +256,9 @@
     "Categorized note/Power Electronics/抑制湧浪電流.md",
     "Fleet note/AA.md",
     "Fleet note/AA.svg",
-    "templates/Excalidraw Templater.md",
-    "Fleet note/Untitled 1.md",
     "Fleet note/Untitled 1.svg",
     "templates/Excalidraw.svg",
     "templates/new note.svg",
-    "Fleet note/NOTE A.md",
     "Scripts/Untitled.canvas",
     "Excalidraw/Drawing 2024-07-27 16.21.14.svg",
     "Scripts",
@@ -266,7 +266,6 @@
     "templates/New Note.svg",
     "Templates",
     "scripts",
-    "未命名",
-    "Image"
+    "未命名"
   ]
 }

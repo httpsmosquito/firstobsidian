@@ -77,7 +77,7 @@
   "syncExcalidraw": false,
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
-  "experimentalLivePreview": true,
+  "experimentalLivePreview": false,
   "fadeOutExcalidrawMarkup": true,
   "loadPropertySuggestions": true,
   "experimentalEnableFourthFont": false,

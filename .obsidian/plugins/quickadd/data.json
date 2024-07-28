@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- {{DATE:HH:mm}} {{VALUE:}}"
+        "format": "- {{DATE:HH:mm}} {{value}}"
       },
       "insertAfter": {
         "enabled": true,
@@ -43,7 +43,7 @@
       "templatePath": "Templates/Diary.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:}}"
+        "format": "{{date}}"
       },
       "folder": {
         "enabled": true,

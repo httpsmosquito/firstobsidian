@@ -52,6 +52,52 @@
             }
           }
         ]
+      },
+      {
+        "id": "19087944b69769e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "966e06236248d763",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1726445f7a969286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f532c91c39d554",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f9d37199f97d9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01dd71082ca18706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Management/Diary/2024-07-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md",
+                "file": "Personal Management/Diary/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md",
+                "file": "Personal Management/Diary/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md"
+                "file": "Personal Management/Diary/2024-07-29.md"
               }
             }
           },
@@ -187,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md"
+                "file": "Personal Management/Diary/2024-07-29.md"
               }
             }
           }
@@ -214,10 +260,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a16700444ed1efe5",
+  "active": "01dd71082ca18706",
   "lastOpenFiles": [
-    "2024-07-28.md",
+    "Personal Management/Diary/2024-07-30.md",
+    "Personal Management/Diary/2024-07-29.md",
     "Personal Management/Diary/2024-07-28.md",
+    "2024-07-28.md",
     "Templates/Diary.md",
     "Personal Management/Diary/2024-07-28 Diary.md",
     "Literature note/Personal Access Token.md",
@@ -245,8 +293,6 @@
     "Categorized note/Power Electronics/橋式整流.md",
     "Personal Management",
     "Categorized note/Power Electronics/電流勾表使用.md",
-    "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
-    "Unclassified note/未命名.md",
     "Categorized note/obsidian/Markdown",
     "Categorized note/obsidian",
     "Categorized note/Business note",

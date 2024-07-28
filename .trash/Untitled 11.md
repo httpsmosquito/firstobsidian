@@ -3,10 +3,8 @@ excalidraw-plugin: parsed
 tags: []
 excalidraw-open-md: true
 ---
-# <%tp.file.title%>
-
-
-![[<%tp.file.title%>.svg]]
+# [[{{title}}]]
+![[{{title}}.svg]]
 
 %%
 # Excalidraw Data

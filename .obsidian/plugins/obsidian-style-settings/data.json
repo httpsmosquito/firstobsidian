@@ -50,10 +50,10 @@
   "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-margin-value": 15,
-  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-rosewater",
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-flamingo",
   "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-yellow",
-  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-teal",
-  "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-green",
-  "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-blue",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-green",
+  "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-sky",
+  "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-lavender",
   "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-sapphire"
 }

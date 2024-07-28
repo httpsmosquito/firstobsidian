@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d62d00cbcc322d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Diary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "41fedefb7830046a",
@@ -233,17 +245,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e34c55c1f75da3f",
+  "active": "d62d00cbcc322d8b",
   "lastOpenFiles": [
-    "Personal Management/Diary/2024-07-29.md",
+    "Personal Management/Diary/2024-07-28.md",
+    "Unclassified note/TOMORROW.md",
     "Templates/Diary.md",
+    "Personal Management/Diary/2024-07-29.md",
     "Unclassified note/Untitled 1.md",
     "Unclassified note/Untitled.md",
     "Unclassified note/123.md",
     "Unclassified note/123.svg",
     "Templates/Excalidraw.md",
     "Unclassified note/231.md",
-    "Personal Management/Diary/2024-07-28.md",
     "Personal Management/Diary/2024-07-30.md",
     "2024-07-28.md",
     "Personal Management/Diary/2024-07-28 Diary.md",

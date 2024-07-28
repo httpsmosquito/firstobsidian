@@ -15,11 +15,11 @@
       },
       "format": {
         "enabled": true,
-        "format": ""
+        "format": "- {{DATE:HH:mm}} {{VALUE:}}"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "# 今日心情",
+        "after": "# Log",
         "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -40,25 +40,27 @@
       "name": "Template - Add new Diary",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "Templates/Diary.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{DATE:}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Personal Management/Diary"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
       "openFileInNewTab": {
-        "enabled": false,
+        "enabled": true,
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false

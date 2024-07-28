@@ -20,6 +20,38 @@
             }
           }
         ]
+      },
+      {
+        "id": "c135e15da3d0451f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bea22f1459ff9e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "575699f274144f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a16700444ed1efe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Management/Diary/2024-07-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "Personal Management/Diary/2024-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Diary.md",
+                "file": "Personal Management/Diary/2024-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Diary.md"
+                "file": "Personal Management/Diary/2024-07-28.md"
               }
             }
           },
@@ -155,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Diary.md"
+                "file": "Personal Management/Diary/2024-07-28.md"
               }
             }
           }
@@ -182,13 +214,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e31a07e943dd81f",
+  "active": "a16700444ed1efe5",
   "lastOpenFiles": [
+    "2024-07-28.md",
     "Personal Management/Diary/2024-07-28.md",
+    "Templates/Diary.md",
     "Personal Management/Diary/2024-07-28 Diary.md",
     "Literature note/Personal Access Token.md",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
-    "Templates/Diary.md",
     "Templates/Excalidraw.md",
     "Personal Management/Diary/2024-07-28 Diary1.md",
     "Unclassified note/123.md",
@@ -215,7 +248,6 @@
     "Categorized note/Business note/預計入庫日期已到但還沒庫存.md",
     "Unclassified note/未命名.md",
     "Categorized note/obsidian/Markdown",
-    "Categorized note/Power Electronics/EMI(Electromagnetic Interference, EMI).md",
     "Categorized note/obsidian",
     "Categorized note/Business note",
     "Categorized note/Korean",

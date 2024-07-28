@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f922c0059e8c309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e34c55c1f75da3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +219,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c79f239a997fd736",
+  "active": "0e34c55c1f75da3f",
   "lastOpenFiles": [
     "Unclassified note/123.md",
     "Templates/Excalidraw.md",

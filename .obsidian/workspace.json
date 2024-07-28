@@ -249,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58e7e672e181f723",
+  "active": "faaecbfbce507eeb",
   "lastOpenFiles": [
     "Templates/Diary.md",
     "Personal Management/Diary/2024-07-28.md",

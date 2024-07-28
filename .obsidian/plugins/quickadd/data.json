@@ -1,5 +1,41 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "006d92fb-9b25-4f85-9314-e26fe5186f34",
+      "name": "Capture - Log in Diary Note",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "Personal Management/Diary/{{DATE:}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/Diary.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# 今日心情",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,

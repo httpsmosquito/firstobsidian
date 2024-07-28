@@ -4,101 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "adb3723e80906ab7",
+        "id": "ee1f3b7241e9cf53",
         "type": "tabs",
         "children": [
           {
-            "id": "5a351f7d0694d070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature note/Personal Access Token.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a94d61f5f6f19c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "586ad5b0fe74e76e",
+            "id": "1e31a07e943dd81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Diary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c8bb427d59a944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Excalidraw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "920d714ea31cd45c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categorized note/obsidian/Markdown/上標、下標.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1ad93ee4a5e64181",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "58e7e672e181f723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Management/Diary/2024-07-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d36af81c6b72da3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d7578c021f12240f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Management/Diary/2024-07-28 Diary.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md",
+                "file": "Templates/Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md",
+                "file": "Templates/Diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md"
+                "file": "Templates/Diary.md"
               }
             }
           },
@@ -240,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Personal Management/Diary/2024-07-28.md"
+                "file": "Templates/Diary.md"
               }
             }
           }
@@ -249,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,28 +182,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "faaecbfbce507eeb",
+  "active": "1e31a07e943dd81f",
   "lastOpenFiles": [
-    "Templates/Diary.md",
     "Personal Management/Diary/2024-07-28.md",
-    "Personal Management/Diary/2024-07-28 Diary1.md",
     "Personal Management/Diary/2024-07-28 Diary.md",
+    "Literature note/Personal Access Token.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Templates/Diary.md",
+    "Templates/Excalidraw.md",
+    "Personal Management/Diary/2024-07-28 Diary1.md",
     "Unclassified note/123.md",
     "Unclassified note/000.md",
     "Image/Pasted image 20240710101315.png",
     "Personal Management/Diary/20240728 Diary.md",
     "Personal Management/Diary/20240512日記.md",
-    "Templates/Excalidraw.md",
     "Templates/Excalidraw-convert-ExistingFile.md",
     "Categorized note/obsidian/Markdown/上標、下標.md",
     "Unclassified note/Untitled 1.md",
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Categorized note/Power Electronics/抑制湧浪電流.md",
     "Categorized note/Power Electronics/湧浪電流.md",
     "Categorized note/Power Electronics/高通濾波器.md",
     "Categorized note/Power Electronics/電磁干擾.md",
     "Categorized note/Power Electronics/過電壓保護over-voltage protection.md",
-    "Literature note/Personal Access Token.md",
     "Categorized note/Power Electronics/傳導性EMI.md",
     "Categorized note/Power Electronics/輻射性EMI.md",
     "Recording 20240728153944.webm",

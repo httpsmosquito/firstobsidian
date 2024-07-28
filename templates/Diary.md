@@ -4,13 +4,13 @@ tags:
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
 
-# 今日心情
+# Log
 
 
-# 明日計畫
+# plan
 
 
 
-# 反省回顧
+# Review
 
 

@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "05547477138d8de1",
+        "id": "4a0f2f2f4d00635a",
         "type": "tabs",
         "children": [
           {
-            "id": "d62d00cbcc322d8b",
+            "id": "540f87ac92f873c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Excalidraw-for existing file.md",
+                "file": "Fleet note/湧浪電流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e12dff8ec62ff2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/抑制湧浪電流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc3634e7c4cd13d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831a831c2277ae74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleet note/箝位電路.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 200
   },
   "right": {
     "id": "c032efeee1473a0e",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Excalidraw-for existing file.md",
+                "file": "Fleet note/箝位電路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Excalidraw-for existing file.md",
+                "file": "Fleet note/箝位電路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Excalidraw-for existing file.md"
+                "file": "Fleet note/箝位電路.md"
               }
             }
           },
@@ -155,80 +192,78 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Excalidraw-for existing file.md"
+                "file": "Fleet note/箝位電路.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "zk-prefixer:建立新唯一筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false
     }
   },
-  "active": "15822e709a5d691e",
+  "active": "831a831c2277ae74",
   "lastOpenFiles": [
-    "Templates/Korean.md",
-    "Untitled",
-    "Personal Management/Diary/2024-07-29.md",
-    "2024-07-29.md",
-    "Templates/Diary.md",
-    "Personal Management/Diary/2024-07-28.md",
-    "Unclassified note/TOMORROW.md",
-    "Unclassified note/Untitled 1.md",
-    "Unclassified note/123.md",
-    "Unclassified note/123.svg",
-    "Templates/Excalidraw.md",
-    "Unclassified note/231.md",
-    "Personal Management/Diary/2024-07-30.md",
-    "2024-07-28.md",
-    "Personal Management/Diary/2024-07-28 Diary.md",
-    "Literature note/Personal Access Token.md",
+    "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
+    "Fleet note/箝位電路.md",
+    "Fleet note/抑制湧浪電流.md",
+    "Fleet note/湧浪電流.md",
+    "Fleet note/整理腦袋.md",
+    "Fleet note/預計入庫日期已到但還沒庫存.md",
+    "附件圖/Pasted image 20240513121416.png",
+    "附件圖/Pasted image 20240513134443.png",
+    "附件圖/Pasted image 20240513134905.png",
     "Literature note/obsidian電腦及手機如何用Github同步.md",
-    "Personal Management/Diary/2024-07-28 Diary1.md",
-    "Unclassified note/000.md",
-    "Image/Pasted image 20240710101315.png",
-    "Personal Management/Diary/20240728 Diary.md",
-    "Personal Management/Diary/20240512日記.md",
-    "Templates/Excalidraw-for existing file.md",
-    "Categorized note/obsidian/Markdown/上標、下標.md",
-    "Categorized note/Power Electronics/抑制湧浪電流.md",
-    "Categorized note/Power Electronics/湧浪電流.md",
-    "Categorized note/Power Electronics/高通濾波器.md",
-    "Categorized note/Power Electronics/電磁干擾.md",
-    "Recording 20240728153944.webm",
-    "Personal Management/Diary",
-    "Personal Management/Task",
-    "Personal Management",
-    "Categorized note/obsidian/Markdown",
-    "Categorized note/obsidian",
-    "Categorized note/Business note",
-    "Categorized note/Korean",
-    "Fleet note/橋式整流.svg",
-    "Fleet note/Untitled.svg",
-    "Fleet note/NOTEA.svg",
-    "Fleet note/123.svg",
-    "Fleet note/AA.svg",
-    "Fleet note/Untitled 1.svg",
-    "templates/Excalidraw.svg",
-    "templates/new note.svg",
-    "Scripts/Untitled.canvas",
-    "Scripts"
+    "Literature note/Personal Access Token.md",
+    "未命名",
+    "能隙.md",
+    "橋式整流.md",
+    "上標、下標.md",
+    "電流勾表使用.md",
+    "20240512日記 2.md",
+    "未命名.md",
+    "SiC碳化硅.md",
+    "2024-05-27.md",
+    "Project-related note/電源架構/光耦合器.md",
+    "Excalidraw/Drawing 2024-05-27 09.18.11.excalidraw.md",
+    "Project-related note/電源架構/判斷MOS好壞.md",
+    "Excalidraw-Obsidian.md",
+    "Untitled.md",
+    "Shit.md",
+    "測試規格書查詢下載.md",
+    "附件圖/Pasted image 20240513165442.png",
+    "附件圖/Pasted image 20240513165415.png",
+    "markdown語法.md",
+    "IGBT.md",
+    "Number Heading.md",
+    "附件圖/Pasted image 20240513163546.png",
+    "附件圖/Pasted image 20240513134609.png",
+    "附件圖/Pasted image 20240513133328.png",
+    "附件圖/Pasted image 20240510142429.png",
+    "附件圖/baby looney tunes.jpg",
+    "附件圖",
+    "firstobsidian/templates",
+    "firstobsidian",
+    "templates",
+    "Project-related note/電源架構",
+    "Project-related note/韓文",
+    "Project-related note",
+    "Permanent note",
+    "Literature note"
   ]
 }

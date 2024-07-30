@@ -17,42 +17,5 @@
       ],
       "key": "P"
     }
-  ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "editor:save-file": [],
-  "markdown:toggle-preview": [],
-  "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:insert-link-to-element-area": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "A"
-    }
-  ],
-  "file-explorer:new-file": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
   ]
 }

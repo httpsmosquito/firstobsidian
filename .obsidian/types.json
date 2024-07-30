@@ -7,6 +7,7 @@
     "Source URL": "text",
     "Author": "multitext",
     "Topics": "multitext",
+    "test": "text",
     "created": "datetime",
     "excalidraw-plugin": "text",
     "excalidraw-export-transparent": "checkbox",
@@ -27,7 +28,6 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-iframe-theme": "text",
-    "excalidraw-open-md": "checkbox",
-    "excalidraw-embeddable-theme": "text"
+    "excalidraw-open-md": "checkbox"
   }
 }

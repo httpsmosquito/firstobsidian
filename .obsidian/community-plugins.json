@@ -1,7 +1,5 @@
 [
   "obsidian-git",
-  "templater-obsidian",
-  "obsidian-excalidraw-plugin",
-  "obsidian-style-settings",
-  "quickadd"
+  "number-headings-obsidian",
+  "obsidian-excalidraw-plugin"
 ]

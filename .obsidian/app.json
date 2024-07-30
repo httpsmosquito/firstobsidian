@@ -7,9 +7,9 @@
   "readableLineLength": true,
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "附件",
+  "attachmentFolderPath": "附件圖",
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Unclassified note",
+  "newFileFolderPath": "Fleet note",
   "strictLineBreaks": true
 }

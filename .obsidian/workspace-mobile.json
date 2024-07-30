@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet note/emi.md",
+                "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fleet note/emi.md",
+            "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fleet note/emi.md",
+            "file": "Literature note/obsidian電腦及手機如何用Github同步.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fleet note/emi.md"
+            "file": "Literature note/obsidian電腦及手機如何用Github同步.md"
           }
         }
       }
@@ -149,8 +149,10 @@
   },
   "active": "29be5265216f8a31",
   "lastOpenFiles": [
-    "Literature note/obsidian電腦及手機如何用Github同步.md",
+    "Excalidraw-Obsidian.md",
+    "20240512日記 2.md",
     "Fleet note/emi.md",
+    "Literature note/obsidian電腦及手機如何用Github同步.md",
     "Fleet note/湧浪電流.md",
     "Fleet note/抑制湧浪電流.md",
     "Fleet note/過電壓保護測試  (Over Voltage Protection Test).md",
@@ -172,13 +174,11 @@
     "/Fleet note/未命名.md",
     "/Fleet note",
     "卡片盒筆記法.md",
-    "20240512日記 2.md",
     "電流勾表使用.md",
     "Shit.md",
     "Project-related note/電源架構/判斷MOS好壞.md",
     "附件圖/baby looney tunes.jpg",
     "/附件圖/baby looney tunes.jpg",
-    "上標、下標.md",
     "附件圖/Pasted image 20240513165442.png",
     "附件圖/Pasted image 20240513121416.png",
     "附件圖/Pasted image 20240513134609.png",
